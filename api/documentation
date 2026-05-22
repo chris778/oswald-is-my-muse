@@ -1,0 +1,142 @@
+API Reference
+Programmatic access to your account data. All endpoints are scoped to the authenticated user.
+
+Authentication
+Every endpoint requires a Bearer token sent in the Authorization header. Mint one above in the API Tokens card.
+
+Authorization: Bearer <your-token>
+Tokens are scoped to your account and grant read-only access to your own data.
+
+API tokens
+GET
+/api/me/api-tokens
+Copy
+List your active API tokens. Raw token values are never returned — only metadata.
+
+Response
+JSON with a tokens array. Each entry has id, name, role, lastUsedAt, createdAt and expiresAt.
+
+Example
+curl -H "Authorization: Bearer $TOKEN" \
+  "https://duels.ink/api/me/api-tokens"
+POST
+/api/me/api-tokens
+Copy
+Mint a new Bearer token. The raw token is only returned in this response — store it safely.
+
+Request body
+Name	Type	Default	Description
+name*	string	—	Token label, 1–64 characters.
+expiresInDays	number	—	Optional expiry in days (1–365). Omit for non-expiring.
+Response
+JSON with success: true and a token object containing id, name, rawToken, createdAt and expiresAt. Max 10 tokens per user.
+
+Example
+curl -X POST "https://duels.ink/api/me/api-tokens" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"name":"analytics-notebook","expiresInDays":90}'
+Rate limit: 6 creations / 60s per user.
+
+DELETE
+/api/me/api-tokens
+Copy
+Revoke a token by id. The token stops working immediately. Cannot be undone.
+
+Request body
+Name	Type	Default	Description
+id*	string	—	Id of a token belonging to the caller.
+Response
+JSON with success: true.
+
+Example
+curl -X DELETE "https://duels.ink/api/me/api-tokens" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"id":"<token-id>"}'
+Data export
+GET
+/api/me/match-history
+Copy
+Stream one analytics-friendly row per finished game played by the authenticated user. Pure Postgres — does not touch the replay/log object store. Puzzle and scenario games are never returned.
+
+Query parameters
+Name	Type	Default	Description
+format	'csv' | 'json' | 'jsonl'	json	Response format. CSV and JSONL stream rows; JSON wraps them with a next_cursor field.
+limit	number	1000	Rows per request, 1–1000.
+cursor	string	—	Pagination cursor: "<iso-updated-at>|<game-id>". Read from next_cursor or the Link header.
+from	ISO 8601	—	ISO 8601 timestamp — inclusive lower bound on games.updatedAt.
+to	ISO 8601	—	ISO 8601 timestamp — exclusive upper bound on games.updatedAt.
+source	'matchmaking' | 'private' | 'bot'	all	Comma-separated list. Default: all three.
+queue	string	—	Comma-separated queue ids. Only constrains matchmaking rows.
+Response
+JSON: games array of MatchHistoryRow plus a next_cursor field (string or null). JSONL: one row per line. CSV: header row + one row per game. CSV/JSONL paginate via the Link header. Each row carries the player's and opponent's aggregated decklist as an array of cardId/count entries (sorted by cardId; JSON-encoded in CSV cells, structured arrays in JSON/JSONL).
+
+Example
+curl -H "Authorization: Bearer $TOKEN" \
+  "https://duels.ink/api/me/match-history?format=csv&from=2025-01-01T00:00:00Z&to=2025-12-31T23:59:59Z" \
+  -o match-history.csv
+Rate limit: 20 requests / 60s per user.
+
+POST
+/api/me/bulk-replays
+Copy
+Return a manifest of direct download URLs for the requested replay_id values. Ownership is validated server-side. The caller fetches each URL itself — the app server is not in the byte path of the export.
+
+Request body
+Name	Type	Default	Description
+ids*	string[]	—	Array of replay ids. Max 1000 per request.
+Response
+JSON with a files array (each entry has id, filename, url) and a missing array of ids the caller does not own or whose replay isn't ready.
+
+Example
+curl -X POST "https://duels.ink/api/me/bulk-replays" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"ids":["rp_abc","rp_def"]}'
+Rate limit: 30 requests / 60s per user.
+
+POST
+/api/me/bulk-gamelogs
+Copy
+Return a manifest of direct download URLs for the requested game_id values. Same design as bulk-replays — only finished games are returned.
+
+Request body
+Name	Type	Default	Description
+ids*	string[]	—	Array of game ids. Max 1000 per request.
+Response
+JSON with a files array (each entry has id, filename, url) and a missing array of ids the caller does not own.
+
+Example
+curl -X POST "https://duels.ink/api/me/bulk-gamelogs" \
+  -H "Authorization: Bearer $TOKEN" \
+  -H "Content-Type: application/json" \
+  -d '{"ids":["g_abc","g_def"]}'
+Rate limit: 30 requests / 60s per user.
+
+Direct downloads
+GET
+/r/{replay_id}
+Copy
+Download a single replay file. Server validates ownership, then redirects (302) to a signed CDN URL. The blob is immutable, so the CDN response is cached aggressively after the first warm fetch.
+
+Response
+302 redirect to a signed CDN URL serving the .replay.gz blob.
+
+Example
+curl -L -O -H "Authorization: Bearer $TOKEN" \
+  "https://duels.ink/r/<replay_id>"
+Notes: Authenticate via session cookie or Bearer token. Follow redirects (-L with curl).
+
+GET
+/g/{game_id}
+Copy
+Download a single gamelog file. Same redirect-to-signed-URL behaviour as /r/.
+
+Response
+302 redirect to a signed CDN URL serving the .logs.gz blob.
+
+Example
+curl -L -O -H "Authorization: Bearer $TOKEN" \
+  "https://duels.ink/g/<game_id>"
+Notes: Authenticate via session cookie or Bearer token. Follow redirects (-L with curl).
