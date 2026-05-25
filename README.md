@@ -64,15 +64,22 @@ The sync step writes/updates:
 This app can be deployed as a shared Streamlit site.
 
 1. Push this repo to GitHub.
-2. Make sure `analysis_output/` contains the CSVs the dashboard reads (for example `clean_games.csv`, `clean_events.csv`, and other generated analysis CSVs).
-3. In Streamlit Community Cloud, create a new app from your GitHub repo.
-4. Set the main file path to:
+2. Commit the generated analysis files the dashboard reads, especially the contents of `analysis_output/`.
+3. Make sure any local-only API token file stays untracked (`api/access` should remain private).
+4. In Streamlit Community Cloud, create a new app from your GitHub repo.
+5. Set the main file path to:
 
 ```text
 dashboard.py
 ```
 
-5. Deploy.
+6. Deploy.
+
+### Streamlit Cloud notes
+
+- The dashboard is a read-only viewer on Streamlit Cloud unless you also provide fresh generated CSVs in the repo.
+- If you run `analyze.py --sync-api` locally, commit the refreshed `results/` and `analysis_output/` files before redeploying.
+- The app will automatically use `dashboard.py` as long as the repo root contains the generated outputs it expects.
 
 ### Notes
 
