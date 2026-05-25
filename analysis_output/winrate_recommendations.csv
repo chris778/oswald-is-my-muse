@@ -1,15 +1,14 @@
 rank,category,action,rationale,signal_score,games,confidence,priority
-1,Play Pattern,Increase early board development and reduce clunky opening hands.,Wins average 7.96 more played events per game.,19.9,563,Medium,100.0
-2,Decklist,Treat Lucky Dime as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 17.5 points vs baseline loss rate.",17.52,122,High,100.0
-3,Decklist,Treat Tamatoa - So Shiny! as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 26.5 points vs baseline loss rate.",26.55,79,High,99.5
-4,Decklist,Run a 10-game experiment cutting 1-2 copies of Piglet - Pooh Pirate Captain.,Card shows +18.8 loss-rate lift vs baseline.,18.79,54,High,87.0
-5,Decklist,Run a 10-game experiment cutting 1-2 copies of Cinderella - Ballroom Sensation.,Card shows +13.7 loss-rate lift vs baseline.,13.69,48,High,84.0
-6,Decklist,Run a 10-game experiment cutting 1-2 copies of Lady - Decisive Dog.,Card shows +13.9 loss-rate lift vs baseline.,13.87,46,High,83.0
-7,Decklist,Treat Ruby Chromicon as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 26.2 points vs baseline loss rate.",26.19,35,High,77.5
-8,Mulligan,Mulligan Vision of the Future more aggressively in your opener unless hand context is premium.,Opening with this card has +17.9 loss-rate lift.,17.86,24,Medium,72.0
-9,Play Pattern,Find more lines that keep characters safe to quest repeatedly.,Wins average 2.50 more quest events per game.,6.24,443,Medium,71.2
-10,Decklist,Run a 10-game experiment cutting 1-2 copies of Christopher Robin - Joining the Fun.,Card shows +11.1 loss-rate lift vs baseline.,11.14,31,High,71.2
-11,Mulligan,Mulligan Tamatoa - Happy as a Clam more aggressively in your opener unless hand context is premium.,Opening with this card has +14.5 loss-rate lift.,14.53,20,Medium,70.0
-12,Mulligan,Mulligan Tramp - Enterprising Dog more aggressively in your opener unless hand context is premium.,Opening with this card has +17.9 loss-rate lift.,17.86,12,Medium,66.0
-13,Mulligan,Mulligan Doc - Bold Knight more aggressively in your opener unless hand context is premium.,Opening with this card has +19.5 loss-rate lift.,19.53,10,Medium,65.0
-14,Play Pattern,Reduce low-value challenges; challenge only to protect high lore pressure.,Losses average 0.19 more attacks per game than wins.,0.47,400,Medium,42.3
+1,Play Pattern,Increase early board development and reduce clunky opening hands.,Wins average 12.36 more played events per game.,30.9,723,Medium,100.0
+2,Decklist,Treat Lucky Dime as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 19.7 points vs baseline loss rate.",19.74,160,High,100.0
+3,Decklist,Treat Tamatoa - So Shiny! as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 27.6 points vs baseline loss rate.",27.64,110,High,100.0
+4,Decklist,Run a 10-game experiment cutting 1-2 copies of Piglet - Pooh Pirate Captain.,Card shows +17.2 loss-rate lift vs baseline.,17.21,66,High,93.0
+5,Decklist,Treat Ruby Chromicon as a core keep and prioritize lines that deploy it on curve.,"When played, this card improves results by 19.2 points vs baseline loss rate.",19.22,52,High,86.0
+6,Play Pattern,Find more lines that keep characters safe to quest repeatedly.,Wins average 3.53 more quest events per game.,8.82,564,Medium,84.1
+7,Mulligan,Mulligan Vision of the Future more aggressively in your opener unless hand context is premium.,Opening with this card has +18.0 loss-rate lift.,17.96,24,Medium,72.0
+8,Decklist,Run a 10-game experiment cutting 1-2 copies of Webby Vanderquack - Junior Prospector.,Card shows +11.2 loss-rate lift vs baseline.,11.24,31,High,71.7
+9,Decklist,Run a 10-game experiment cutting 1-2 copies of Kit Cloudkicker - Tough Guy.,Card shows +12.0 loss-rate lift vs baseline.,12.01,21,Medium,70.5
+10,Mulligan,Mulligan Tamatoa - Happy as a Clam more aggressively in your opener unless hand context is premium.,Opening with this card has +14.6 loss-rate lift.,14.63,20,Medium,70.0
+11,Decklist,Run a 10-game experiment cutting 1-2 copies of Lilo - Escape Artist.,Card shows +12.3 loss-rate lift vs baseline.,12.26,19,Medium,69.5
+12,Mulligan,Mulligan Tramp - Enterprising Dog more aggressively in your opener unless hand context is premium.,Opening with this card has +18.0 loss-rate lift.,17.96,12,Medium,66.0
+13,Mulligan,Mulligan Doc - Bold Knight more aggressively in your opener unless hand context is premium.,Opening with this card has +19.6 loss-rate lift.,19.63,10,Medium,65.0

@@ -78,6 +78,44 @@ def best_populated_column(df: pd.DataFrame, candidates: list[str]) -> str | None
     return counts[0][1] if counts and counts[0][0] > 0 else None
 
 
+def multiselect_with_actions(
+    container,
+    label: str,
+    options: list[str],
+    *,
+    key: str,
+    default_selected: list[str] | None = None,
+    help: str | None = None,
+    format_func=None,
+) -> list[str]:
+    """Render a multiselect with quick select-all and deselect-all buttons."""
+    normalized_options = list(options)
+    if default_selected is None:
+        default_selected = normalized_options
+
+    valid_default = [value for value in st.session_state.get(key, list(default_selected)) if value in normalized_options]
+    if not valid_default and normalized_options:
+        valid_default = list(normalized_options)
+    st.session_state[key] = list(valid_default)
+
+    action_col1, action_col2 = container.columns(2)
+    if action_col1.button("Select all", key=f"{key}__all", use_container_width=True):
+        st.session_state[key] = list(normalized_options)
+        st.rerun()
+    if action_col2.button("Deselect all", key=f"{key}__none", use_container_width=True):
+        st.session_state[key] = []
+        st.rerun()
+
+    return container.multiselect(
+        label,
+        normalized_options,
+        default=valid_default,
+        key=key,
+        help=help,
+        **({"format_func": format_func} if format_func is not None else {}),
+    )
+
+
 def parse_deck_cell(cell: object) -> dict[str, int]:
     if cell is None or (isinstance(cell, float) and pd.isna(cell)):
         return {}
@@ -236,6 +274,23 @@ def read_guide_notes() -> str:
             "- Add combo notes here."
         )
     return notes_path.read_text(encoding="utf-8")
+
+
+def split_guide_note_sections(notes_text: str) -> dict[str, str]:
+    """Split the guide markdown into top matter and named section bodies."""
+    sections: dict[str, str] = {}
+    matches = list(re.finditer(r"^##\s+(.+?)\s*$", notes_text, flags=re.MULTILINE))
+    if not matches:
+        return sections
+
+    for idx, match in enumerate(matches):
+        title = match.group(1).strip()
+        start = match.end()
+        end = matches[idx + 1].start() if idx + 1 < len(matches) else len(notes_text)
+        body = notes_text[start:end].strip()
+        sections[title] = body
+
+    return sections
 
 
 @st.cache_data(ttl=86400)
@@ -425,6 +480,10 @@ if not games_df.empty:
         if not valid_dates.empty:
             min_d = valid_dates.min().date()
             max_d = valid_dates.max().date()
+            date_bounds_signature = (str(min_d), str(max_d), str(len(valid_dates)))
+            if st.session_state.get("_date_range_signature") != date_bounds_signature:
+                st.session_state["date_range"] = (min_d, max_d)
+                st.session_state["_date_range_signature"] = date_bounds_signature
             date_range = st.sidebar.date_input("Date range", value=(min_d, max_d), key="date_range")
             if isinstance(date_range, (list, tuple)) and len(date_range) == 2:
                 selected_start = pd.Timestamp(date_range[0]).date()
@@ -438,7 +497,7 @@ if not games_df.empty:
 # Archetype filter
 if not games_df.empty and "archetype" in games_df.columns:
     archetypes = sorted(games_df["archetype"].dropna().unique())
-    selected_arch = st.sidebar.multiselect("My archetype(s)", archetypes, default=archetypes)
+    selected_arch = multiselect_with_actions(st.sidebar, "My archetype(s)", archetypes, key="sidebar_archetypes")
     games_df = games_df[games_df["archetype"].isin(selected_arch)]
 
 # Turn order filter
@@ -461,7 +520,7 @@ if not games_df.empty and ("turn_order" in games_df.columns or "went_first" in g
 
     games_df["turn_order"] = current_to
     turn_orders = sorted(games_df["turn_order"].dropna().unique())
-    selected_to = st.sidebar.multiselect("Turn order", turn_orders, default=turn_orders)
+    selected_to = multiselect_with_actions(st.sidebar, "Turn order", turn_orders, key="sidebar_turn_order")
     games_df = games_df[games_df["turn_order"].isin(selected_to)]
 
 # Match format filter (supports legacy `Match Format` and API `match_format`)
@@ -471,7 +530,7 @@ if not games_df.empty:
         fmt_series = games_df[fmt_col].fillna("Unknown").astype(str).str.strip()
         fmt_series = fmt_series.replace("", "Unknown")
         formats = sorted(fmt_series.unique())
-        selected_fmt = st.sidebar.multiselect("Match format", formats, default=formats)
+        selected_fmt = multiselect_with_actions(st.sidebar, "Match format", formats, key="sidebar_match_format")
         games_df = games_df[fmt_series.isin(selected_fmt)]
 
 # Queue filter (very useful for Infinity BO3 focus)
@@ -480,7 +539,7 @@ if not games_df.empty:
     if queue_col:
         queue_series = games_df[queue_col].fillna("Unknown").astype(str).str.strip().replace("", "Unknown")
         queue_values = sorted(queue_series.unique())
-        selected_queue = st.sidebar.multiselect("Queue", queue_values, default=queue_values)
+        selected_queue = multiselect_with_actions(st.sidebar, "Queue", queue_values, key="sidebar_queue")
         games_df = games_df[queue_series.isin(selected_queue)]
 
 # Deck-focused filters for API data
@@ -495,15 +554,20 @@ if not games_df.empty:
         if deck_id_col:
             deck_id_series = games_df[deck_id_col].fillna("Unknown").astype(str).str.strip().replace("", "Unknown")
             deck_id_counts = deck_id_series.value_counts()
-            deck_id_labels = [f"{deck_id} ({count})" for deck_id, count in deck_id_counts.items()]
-            selected_deck_labels = st.sidebar.multiselect("Deck ID", deck_id_labels, default=deck_id_labels)
-            selected_deck_ids = {label.rsplit(" (", 1)[0] for label in selected_deck_labels}
+            deck_id_options = list(deck_id_counts.index)
+            selected_deck_ids = multiselect_with_actions(
+                st.sidebar,
+                "Deck ID",
+                deck_id_options,
+                key="sidebar_deck_id",
+                format_func=lambda deck_id: f"{deck_id} ({int(deck_id_counts.get(deck_id, 0))})",
+            )
             games_df = games_df[deck_id_series.isin(selected_deck_ids)]
 
         if deck_colors_col:
             deck_color_series = games_df[deck_colors_col].fillna("Unknown").astype(str).str.strip().replace("", "Unknown")
             deck_colors = sorted(deck_color_series.unique())
-            selected_deck_colors = st.sidebar.multiselect("Deck colors", deck_colors, default=deck_colors)
+            selected_deck_colors = multiselect_with_actions(st.sidebar, "Deck colors", deck_colors, key="sidebar_deck_colors")
             games_df = games_df[deck_color_series.isin(selected_deck_colors)]
 
         # No real deck-title column is currently present in clean_games, so provide keyword fallback.
@@ -656,7 +720,41 @@ elif page == "📘 Deck Guide":
     st.caption(
         "These notes are loaded from `analysis_output/deck_play_guide_notes.md` so you can edit them later."
     )
-    st.markdown(read_guide_notes())
+    guide_notes = read_guide_notes()
+    guide_sections = split_guide_note_sections(guide_notes)
+
+    if "General Philosophy" in guide_sections:
+        st.markdown(f"## General Philosophy\n{guide_sections['General Philosophy']}")
+
+    if "General Concepts" in guide_sections:
+        st.markdown(f"## General Concepts\n{guide_sections['General Concepts']}")
+
+    matchup_tab_order = [
+        "GY",
+        "GS",
+        "RB / BP / RP",
+        "AS Songs",
+        "AS / PY Aggro",
+        "Current List / Matchup Stats",
+    ]
+    matchup_tabs = [name for name in matchup_tab_order if name in guide_sections]
+    if matchup_tabs:
+        st.markdown("### Matchup Notes")
+        tab_objs = st.tabs(matchup_tabs)
+        for tab_obj, tab_name in zip(tab_objs, matchup_tabs):
+            with tab_obj:
+                st.markdown(f"## {tab_name}\n{guide_sections[tab_name]}")
+                if tab_name == "Current List / Matchup Stats":
+                    deck_image = ROOT / "notes" / "deck.png"
+                    stats_image = ROOT / "notes" / "stats.png"
+                    if deck_image.exists() or stats_image.exists():
+                        st.markdown("#### Visual References")
+                        if deck_image.exists():
+                            st.image(str(deck_image), caption="Current list", use_container_width=True)
+                        if stats_image.exists():
+                            st.image(str(stats_image), caption="Matchup stats", use_container_width=True)
+    else:
+        st.markdown(guide_notes)
 
     card_image_map = load_card_image_map()
 
@@ -823,17 +921,17 @@ elif page == "📘 Deck Guide":
         )
 
         with filter_col1:
-            selected_hand_colors = st.multiselect(
+            selected_hand_colors = multiselect_with_actions(
+                filter_col1,
                 "Color combo (optional)",
                 color_options,
-                default=color_options,
                 key="guide_hand_filter_colors",
             )
         with filter_col2:
-            selected_hand_turns = st.multiselect(
+            selected_hand_turns = multiselect_with_actions(
+                filter_col2,
                 "Turn order (optional)",
                 turn_options,
-                default=turn_options,
                 key="guide_hand_filter_turns",
             )
 
@@ -876,6 +974,10 @@ elif page == "📘 Deck Guide":
                     series_txt = f"G{int(float(row.get(series_col)))}"
                 except (TypeError, ValueError):
                     series_txt = "G?"
+
+            # Keep G1 examples a little more private by hiding the opponent color combo.
+            if series_txt == "G1":
+                color_txt = "Hidden"
 
             label = f"{date_txt} | {opp} | {color_txt} | {to} | {series_txt} | csv_row_id={csv_id}"
             hand_options.append((label, csv_id))
@@ -1307,9 +1409,16 @@ elif page == "🏰 Archetypes & Matchups":
         else:
             min_g = st.slider("Min games (All)", 3, 20, 5, key="arch_min")
             filtered_arch = arch_df.copy()
+            arch_turn_orders = sorted(filtered_arch["turn_order"].fillna("Unknown").astype(str).str.strip().replace("", "Unknown").unique())
 
-            to_show = st.selectbox("Turn order", ["All", "OTP", "OTD"], key="arch_to")
-            subset = filtered_arch[filtered_arch["turn_order"] == to_show]
+            to_show = multiselect_with_actions(
+                st,
+                "Turn order",
+                arch_turn_orders,
+                key="arch_to",
+                default_selected=arch_turn_orders,
+            )
+            subset = filtered_arch[filtered_arch["turn_order"].isin(to_show)]
             subset = subset[subset["games"] >= min_g]
 
             if subset.empty:
@@ -1373,8 +1482,15 @@ elif page == "🏰 Archetypes & Matchups":
         if deck_ver_df.empty:
             st.info("No deck version data available.")
         else:
-            to_dv = st.selectbox("Turn order", ["All", "OTP", "OTD"], key="dv_to")
-            subset_dv = deck_ver_df[deck_ver_df["turn_order"] == to_dv].sort_values("win_rate", ascending=False)
+            dv_turn_orders = sorted(deck_ver_df["turn_order"].fillna("Unknown").astype(str).str.strip().replace("", "Unknown").unique())
+            to_dv = multiselect_with_actions(
+                st,
+                "Turn order",
+                dv_turn_orders,
+                key="dv_to",
+                default_selected=dv_turn_orders,
+            )
+            subset_dv = deck_ver_df[deck_ver_df["turn_order"].isin(to_dv)].sort_values("win_rate", ascending=False)
             subset_dv = subset_dv.copy()
             subset_dv["win_rate"] = subset_dv["win_rate"].map(pct)
             st.dataframe(subset_dv, use_container_width=True)
@@ -1479,8 +1595,15 @@ elif page == "📈 Lore & Mulligans":
         if mulligan_df.empty:
             st.info("No mulligan data available (requires matched replays).")
         else:
-            to_mull = st.selectbox("Turn order", ["All", "OTP", "OTD"], key="mull_to")
-            subset_m = mulligan_df[mulligan_df["turn_order"] == to_mull].sort_values("mulligans")
+            mull_turn_orders = sorted(mulligan_df["turn_order"].fillna("Unknown").astype(str).str.strip().replace("", "Unknown").unique())
+            to_mull = multiselect_with_actions(
+                st,
+                "Turn order",
+                mull_turn_orders,
+                key="mull_to",
+                default_selected=mull_turn_orders,
+            )
+            subset_m = mulligan_df[mulligan_df["turn_order"].isin(to_mull)].sort_values("mulligans")
 
             if subset_m.empty:
                 st.info("No data for selected turn order.")

@@ -1,712 +1,787 @@
 card_name_a,card_name_b,games,wins,win_rate,win_lift_vs_baseline
-Basil's Magnifying Glass,Tamatoa - So Shiny!,39,39,1.0,0.4047373841400618
-Brawl,Tamatoa - So Shiny!,25,25,1.0,0.4047373841400618
-Ghostly Tale,"Next Stop, Olympus",15,15,1.0,0.4047373841400618
-Ghostly Tale,Sail the Azurite Sea,14,14,1.0,0.4047373841400618
-Develop Your Brain,Ghostly Tale,13,13,1.0,0.4047373841400618
-Ghostly Tale,Vision of the Future,13,13,1.0,0.4047373841400618
-Ruby Chromicon,Tamatoa - So Shiny!,13,13,1.0,0.4047373841400618
-Ghostly Tale,Scuttle - Birdbrained,11,11,1.0,0.4047373841400618
-Ghostly Tale,What Else Can I Do?,11,11,1.0,0.4047373841400618
-Liquidator - Iced Over,Tamatoa - So Shiny!,9,9,1.0,0.4047373841400618
-Tamatoa - Happy as a Clam,Tamatoa - So Shiny!,8,8,1.0,0.4047373841400618
-Cinderella - Dream Come True,Ghostly Tale,7,7,1.0,0.4047373841400618
-Dig a Little Deeper,Ghostly Tale,7,7,1.0,0.4047373841400618
-Maui - Hero to All,Ruby Chromicon,7,7,1.0,0.4047373841400618
-Cogsworth - Grandfather Clock,Ghostly Tale,6,6,1.0,0.4047373841400618
-Ghostly Tale,Someone Will Lose His Head,6,6,1.0,0.4047373841400618
-Hidden Inkcaster,Tamatoa - Happy as a Clam,6,6,1.0,0.4047373841400618
-Lucky Dime,Maui's Fish Hook,6,6,1.0,0.4047373841400618
-Scrooge McDuck - Resourceful Miser,Under the Sea,6,6,1.0,0.4047373841400618
-Eilonwy - Princess of Llyr,Lady - Miss Park Avenue,5,5,1.0,0.4047373841400618
-Maui's Fish Hook,Tamatoa - So Shiny!,5,5,1.0,0.4047373841400618
-Mowgli - Man Cub,Under the Sea,5,5,1.0,0.4047373841400618
-Ratigan's Marvelous Trap,Tamatoa - Happy as a Clam,5,5,1.0,0.4047373841400618
-Ratigan's Marvelous Trap,Under the Sea,5,5,1.0,0.4047373841400618
-Tamatoa - Happy as a Clam,Under the Sea,5,5,1.0,0.4047373841400618
-Gold Coin,Tamatoa - So Shiny!,28,27,0.9642857142857143,0.3690230984257761
-Lucky Dime,Tamatoa - So Shiny!,54,52,0.9629629629629629,0.3677003471030247
-Belle - Apprentice Inventor,Tamatoa - So Shiny!,49,47,0.9591836734693877,0.3639210576094495
-Tamatoa - So Shiny!,Unconventional Tool,48,46,0.9583333333333334,0.36307071747339514
-Fishbone Quill,Tamatoa - So Shiny!,66,63,0.9545454545454546,0.35928283868551636
-Scrooge McDuck - Resourceful Miser,Tamatoa - So Shiny!,65,62,0.9538461538461539,0.3585835379862157
-Oswald - The Lucky Rabbit,Tamatoa - So Shiny!,62,59,0.9516129032258065,0.35635028736586827
-Might Solve a Mystery,Tamatoa - So Shiny!,20,19,0.95,0.35473738414006173
-Pawpsicle,Tamatoa - So Shiny!,71,67,0.9436619718309859,0.34839935597104765
-Maurice's Workshop,Tamatoa - So Shiny!,70,66,0.9428571428571428,0.3475945269972046
-Sapphire Coil,Tamatoa - So Shiny!,70,66,0.9428571428571428,0.3475945269972046
-Inkrunner,Tamatoa - So Shiny!,67,63,0.9402985074626866,0.3450358916027484
-Ghostly Tale,Maui - Half-Shark,16,15,0.9375,0.3422373841400618
-Lucky Dime,Ruby Chromicon,16,15,0.9375,0.3422373841400618
-Sisu - Daring Visitor,Tamatoa - So Shiny!,60,56,0.9333333333333333,0.3380707174733951
-Ruby Chromicon,Sisu - Daring Visitor,29,27,0.9310344827586207,0.33577186689868244
-Sisu - Empowered Sibling,Tamatoa - So Shiny!,56,52,0.9285714285714286,0.3333088127114904
-Tamatoa - So Shiny!,Vitalisphere,56,52,0.9285714285714286,0.3333088127114904
-Brawl,Ruby Chromicon,13,12,0.9230769230769231,0.3278143072169849
-Oswald - The Lucky Rabbit,Tamatoa - Happy as a Clam,13,12,0.9230769230769231,0.3278143072169849
-Basil's Magnifying Glass,Lucky Dime,49,45,0.9183673469387755,0.3231047310788373
-Ruby Chromicon,Unconventional Tool,11,10,0.9090909090909091,0.31382829323097083
-Maui - Hero to All,Tamatoa - So Shiny!,20,18,0.9,0.3047373841400618
-Liquidator - Iced Over,Lucky Dime,10,9,0.9,0.3047373841400618
-Liquidator - Iced Over,Maui - Hero to All,10,9,0.9,0.3047373841400618
-Maui's Fish Hook,Pawpsicle,10,9,0.9,0.3047373841400618
-Cinderella - Dream Come True,"Next Stop, Olympus",9,8,0.8888888888888888,0.2936262730289506
-Eilonwy - Princess of Llyr,Mulan - Resourceful Recruit,9,8,0.8888888888888888,0.2936262730289506
-Inkrunner,Maui's Fish Hook,9,8,0.8888888888888888,0.2936262730289506
-Maui's Fish Hook,Sisu - Empowered Sibling,9,8,0.8888888888888888,0.2936262730289506
-Maurice's Workshop,Ruby Chromicon,33,29,0.8787878787878788,0.28352526292794056
-Fishbone Quill,Liquidator - Iced Over,24,21,0.875,0.2797373841400618
-Lucky Dime,Might Solve a Mystery,24,21,0.875,0.2797373841400618
-Amethyst Chromicon,Madam Mim - Snake,8,7,0.875,0.2797373841400618
-Diablo - Devoted Herald,Diablo - Maleficent's Spy,8,7,0.875,0.2797373841400618
-John Smith - Skillful Explorer,Madam Mim - Snake,8,7,0.875,0.2797373841400618
-Liquidator - Iced Over,Might Solve a Mystery,8,7,0.875,0.2797373841400618
-Sail the Azurite Sea,Sisu - Empowered Sibling,8,7,0.875,0.2797373841400618
-Inkrunner,Ruby Chromicon,30,26,0.8666666666666667,0.27140405080672847
-Basil's Magnifying Glass,Ruby Chromicon,22,19,0.8636363636363636,0.2683737477764254
-Oswald - The Lucky Rabbit,Ruby Chromicon,29,25,0.8620689655172413,0.2668063496573031
-Ruby Chromicon,Sisu - Empowered Sibling,29,25,0.8620689655172413,0.2668063496573031
-Basil's Magnifying Glass,Sisu - Empowered Sibling,101,87,0.8613861386138614,0.26612352275392315
-Lucky Dime,Unconventional Tool,64,55,0.859375,0.2641123841400618
-Fishbone Quill,Lucky Dime,99,85,0.8585858585858586,0.26332324272592034
-Brawl,Lucky Dime,42,36,0.8571428571428571,0.26188024128291887
-Fishbone Quill,Ruby Chromicon,28,24,0.8571428571428571,0.26188024128291887
-Belle - Apprentice Inventor,Ruby Chromicon,21,18,0.8571428571428571,0.26188024128291887
-Fishbone Quill,Tamatoa - Happy as a Clam,14,12,0.8571428571428571,0.26188024128291887
-Akood et Emuti,Diablo - Maleficent's Spy,7,6,0.8571428571428571,0.26188024128291887
-Diablo - Devoted Herald,Prince John - Greediest of All,7,6,0.8571428571428571,0.26188024128291887
-Diablo - Devoted Herald,Sudden Chill,7,6,0.8571428571428571,0.26188024128291887
-Fishbone Quill,Ratigan's Marvelous Trap,7,6,0.8571428571428571,0.26188024128291887
-Fishbone Quill,Under the Sea,7,6,0.8571428571428571,0.26188024128291887
-Maui's Fish Hook,Unconventional Tool,7,6,0.8571428571428571,0.26188024128291887
-Maurice's Workshop,Under the Sea,7,6,0.8571428571428571,0.26188024128291887
-Ratigan's Marvelous Trap,Sapphire Coil,7,6,0.8571428571428571,0.26188024128291887
-Pawpsicle,Ruby Chromicon,34,29,0.8529411764705882,0.25767856061065
-Ruby Chromicon,Scrooge McDuck - Resourceful Miser,33,28,0.8484848484848485,0.2532222326249103
-Lucky Dime,Sisu - Empowered Sibling,84,71,0.8452380952380952,0.249975479378157
-Ruby Chromicon,Sapphire Coil,32,27,0.84375,0.24848738414006177
-Lucky Dime,Oswald - The Lucky Rabbit,99,83,0.8383838383838383,0.24312122252390012
-Might Solve a Mystery,Oswald - The Lucky Rabbit,37,31,0.8378378378378378,0.2425752219778996
-Gold Coin,Sisu - Empowered Sibling,67,56,0.835820895522388,0.2405582796624498
-Lucky Dime,Sisu - Daring Visitor,91,76,0.8351648351648352,0.23990221930489697
-Lucky Dime,Maurice's Workshop,103,86,0.8349514563106796,0.23968884045074135
-Ruby Chromicon,Vitalisphere,30,25,0.8333333333333334,0.23807071747339514
-Daisy Duck - Donald's Date,Nani - Stage Manager,12,10,0.8333333333333334,0.23807071747339514
-Gold Coin,Liquidator - Iced Over,12,10,0.8333333333333334,0.23807071747339514
-Maui's Fish Hook,Oswald - The Lucky Rabbit,12,10,0.8333333333333334,0.23807071747339514
-Maui's Fish Hook,Sapphire Coil,12,10,0.8333333333333334,0.23807071747339514
-A Pirate's Life,Gramma Tala - Keeper of Ancient Stories,6,5,0.8333333333333334,0.23807071747339514
-A Pirate's Life,Pawpsicle,6,5,0.8333333333333334,0.23807071747339514
-A Pirate's Life,Vision of the Future,6,5,0.8333333333333334,0.23807071747339514
-Ariel - Spectacular Singer,Diablo - Devoted Herald,6,5,0.8333333333333334,0.23807071747339514
-Cinderella - Dream Come True,What Else Can I Do?,6,5,0.8333333333333334,0.23807071747339514
-Diablo - Obedient Raven,Friends on the Other Side,6,5,0.8333333333333334,0.23807071747339514
-Fire the Cannons!,Friends on the Other Side,6,5,0.8333333333333334,0.23807071747339514
-Fishbone Quill,Galactic Communicator,6,5,0.8333333333333334,0.23807071747339514
-Fishbone Quill,Kit Cloudkicker - Tough Guy,6,5,0.8333333333333334,0.23807071747339514
-Ghostly Tale,Tipo - Growing Son,6,5,0.8333333333333334,0.23807071747339514
-Gramma Tala - Keeper of Ancient Stories,Maui - Half-Shark,6,5,0.8333333333333334,0.23807071747339514
-Jebidiah Farnsworth - Cookie,Vision of the Future,6,5,0.8333333333333334,0.23807071747339514
-Lady - Miss Park Avenue,Ursula - Deceiver,6,5,0.8333333333333334,0.23807071747339514
-Maui - Half-Shark,Pawpsicle,6,5,0.8333333333333334,0.23807071747339514
-Nani - Stage Manager,Piglet - Pooh Pirate Captain,6,5,0.8333333333333334,0.23807071747339514
-Nani - Stage Manager,Webby Vanderquack - Mystery Enthusiast,6,5,0.8333333333333334,0.23807071747339514
-Oswald - The Lucky Rabbit,Under the Sea,6,5,0.8333333333333334,0.23807071747339514
-Lucky Dime,Pawpsicle,107,89,0.8317757009345794,0.2365130850746412
-Lucky Dime,Sapphire Coil,101,84,0.8316831683168316,0.23642055245689342
-Lucky Dime,Scrooge McDuck - Resourceful Miser,95,79,0.8315789473684211,0.23631633150848286
-Sisu - Empowered Sibling,Unconventional Tool,123,102,0.8292682926829268,0.23400567682298856
-Lucky Dime,Vitalisphere,76,63,0.8289473684210527,0.23368475256111443
-Inkrunner,Lucky Dime,98,81,0.826530612244898,0.23126799638495976
-Lucky Dime,Maui - Hero to All,23,19,0.8260869565217391,0.2308243406618009
-Fishbone Quill,Gold Coin,79,65,0.8227848101265823,0.2275221942666441
-Basil's Magnifying Glass,Maui - Hero to All,33,27,0.8181818181818182,0.22291920232188
-Basil's Magnifying Glass,Might Solve a Mystery,22,18,0.8181818181818182,0.22291920232188
-Might Solve a Mystery,Unconventional Tool,22,18,0.8181818181818182,0.22291920232188
-Maui - Half-Shark,Someone Will Lose His Head,11,9,0.8181818181818182,0.22291920232188
-"Next Stop, Olympus",Someone Will Lose His Head,11,9,0.8181818181818182,0.22291920232188
-Sail the Azurite Sea,Someone Will Lose His Head,11,9,0.8181818181818182,0.22291920232188
-Belle - Apprentice Inventor,Lucky Dime,75,61,0.8133333333333334,0.21807071747339513
-Brawl,Might Solve a Mystery,16,13,0.8125,0.21723738414006177
-Fishbone Quill,Might Solve a Mystery,37,30,0.8108108108108109,0.21554819495087263
-Liquidator - Iced Over,Sisu - Empowered Sibling,37,30,0.8108108108108109,0.21554819495087263
-Gold Coin,Lucky Dime,42,34,0.8095238095238095,0.2142611936638713
-Might Solve a Mystery,Ruby Chromicon,21,17,0.8095238095238095,0.2142611936638713
-Basil's Magnifying Glass,Fishbone Quill,110,89,0.8090909090909091,0.21382829323097086
-Belle - Apprentice Inventor,Might Solve a Mystery,31,25,0.8064516129032258,0.21118899704328753
-Basil's Magnifying Glass,Gold Coin,46,37,0.8043478260869565,0.20908521022701831
-Inkrunner,Tamatoa - Happy as a Clam,15,12,0.8,0.20473738414006182
-Cinderella - Dream Come True,Maui - Half-Shark,10,8,0.8,0.20473738414006182
-Develop Your Brain,Someone Will Lose His Head,10,8,0.8,0.20473738414006182
-Fishbone Quill,Maui's Fish Hook,10,8,0.8,0.20473738414006182
-Maui - Hero to All,Might Solve a Mystery,10,8,0.8,0.20473738414006182
-Mulan - Resourceful Recruit,Nani - Stage Manager,10,8,0.8,0.20473738414006182
-Mulan - Resourceful Recruit,Ursula - Deceiver,10,8,0.8,0.20473738414006182
-A Pirate's Life,Develop Your Brain,5,4,0.8,0.20473738414006182
-A Pirate's Life,How Far I'll Go,5,4,0.8,0.20473738414006182
-A Pirate's Life,Sail the Azurite Sea,5,4,0.8,0.20473738414006182
-Akood et Emuti,Lucifer - Cunning Cat,5,4,0.8,0.20473738414006182
-Amethyst Chromicon,Keep the Ancient Ways,5,4,0.8,0.20473738414006182
-Ariel - Spectacular Singer,Diablo - Maleficent's Spy,5,4,0.8,0.20473738414006182
-Belle - Apprentice Inventor,Brom Bones - Burly Bully,5,4,0.8,0.20473738414006182
-Belle - Apprentice Inventor,Ratigan's Marvelous Trap,5,4,0.8,0.20473738414006182
-Brawl,Maui's Fish Hook,5,4,0.8,0.20473738414006182
-Brom Bones - Burly Bully,Pawpsicle,5,4,0.8,0.20473738414006182
-Brom Bones - Burly Bully,Sapphire Coil,5,4,0.8,0.20473738414006182
-Cinderella - Dream Come True,Scuttle - Birdbrained,5,4,0.8,0.20473738414006182
-Cinderella - Dream Come True,Someone Will Lose His Head,5,4,0.8,0.20473738414006182
-Dig a Little Deeper,Tipo - Growing Son,5,4,0.8,0.20473738414006182
-Eilonwy - Princess of Llyr,Webby Vanderquack - Junior Prospector,5,4,0.8,0.20473738414006182
-Fire the Cannons!,Keep the Ancient Ways,5,4,0.8,0.20473738414006182
-Friends on the Other Side,John Smith - Skillful Explorer,5,4,0.8,0.20473738414006182
-Friends on the Other Side,Pete - Games Referee,5,4,0.8,0.20473738414006182
-Gadget's Goggles,Tamatoa - So Shiny!,5,4,0.8,0.20473738414006182
-Galactic Communicator,Sapphire Coil,5,4,0.8,0.20473738414006182
-Gold Coin,Might Solve a Mystery,5,4,0.8,0.20473738414006182
-Gramma Tala - Keeper of Ancient Stories,McDuck Manor - Scrooge's Mansion,5,4,0.8,0.20473738414006182
-How Far I'll Go,McDuck Manor - Scrooge's Mansion,5,4,0.8,0.20473738414006182
-Liquidator - Iced Over,Ruby Chromicon,5,4,0.8,0.20473738414006182
-Lucifer - Cunning Cat,Mowgli - Man Cub,5,4,0.8,0.20473738414006182
-Lucifer - Cunning Cat,We Don't Talk About Bruno,5,4,0.8,0.20473738414006182
-McDuck Manor - Scrooge's Mansion,Pawpsicle,5,4,0.8,0.20473738414006182
-McDuck Manor - Scrooge's Mansion,Vision of the Future,5,4,0.8,0.20473738414006182
-Piglet - Pooh Pirate Captain,Webby Vanderquack - Junior Prospector,5,4,0.8,0.20473738414006182
-Oswald - The Lucky Rabbit,Sisu - Empowered Sibling,187,149,0.7967914438502673,0.20152882799032912
-Maurice's Workshop,Tamatoa - Happy as a Clam,19,15,0.7894736842105263,0.1942110683505881
-Scrooge McDuck - Resourceful Miser,Tamatoa - Happy as a Clam,19,15,0.7894736842105263,0.1942110683505881
-Might Solve a Mystery,Sisu - Daring Visitor,47,37,0.7872340425531915,0.1919714266932533
-Belle - Apprentice Inventor,Sisu - Empowered Sibling,155,122,0.7870967741935484,0.19183415833361017
-Maurice's Workshop,Sisu - Empowered Sibling,205,161,0.7853658536585366,0.1901032377985984
-Belle - Apprentice Inventor,Liquidator - Iced Over,32,25,0.78125,0.18598738414006177
-Fishbone Quill,Sisu - Empowered Sibling,178,139,0.7808988764044944,0.18563626054455618
-Maurice's Workshop,Might Solve a Mystery,50,39,0.78,0.1847373841400618
-Basil's Magnifying Glass,Sapphire Coil,131,102,0.7786259541984732,0.18336333833853502
-Fishbone Quill,Vitalisphere,167,130,0.7784431137724551,0.1831804979125169
-Belle - Apprentice Inventor,Fishbone Quill,153,119,0.7777777777777778,0.18251516191783956
-Basil's Magnifying Glass,Inkrunner,126,98,0.7777777777777778,0.18251516191783956
-Develop Your Brain,Sisu - Empowered Sibling,9,7,0.7777777777777778,0.18251516191783956
-Diablo - Obedient Raven,Madam Mim - Snake,9,7,0.7777777777777778,0.18251516191783956
-Fishbone Quill,Hidden Inkcaster,9,7,0.7777777777777778,0.18251516191783956
-Lucky Dime,Tamatoa - Happy as a Clam,9,7,0.7777777777777778,0.18251516191783956
-Maui's Fish Hook,Sisu - Daring Visitor,9,7,0.7777777777777778,0.18251516191783956
-"Next Stop, Olympus",Tipo - Growing Son,9,7,0.7777777777777778,0.18251516191783956
-Someone Will Lose His Head,Vision of the Future,9,7,0.7777777777777778,0.18251516191783956
-Fishbone Quill,Maurice's Workshop,231,179,0.7748917748917749,0.17962915903183663
-Fishbone Quill,Inkrunner,216,167,0.7731481481481481,0.1778855322882099
-Inkrunner,Might Solve a Mystery,44,34,0.7727272727272727,0.17746465686733448
-Might Solve a Mystery,Sisu - Empowered Sibling,44,34,0.7727272727272727,0.17746465686733448
-Might Solve a Mystery,Vitalisphere,44,34,0.7727272727272727,0.17746465686733448
-Pawpsicle,Sisu - Empowered Sibling,224,173,0.7723214285714286,0.17705881271149038
-Fishbone Quill,Oswald - The Lucky Rabbit,221,170,0.7692307692307693,0.17396815337083105
-Fishbone Quill,Unconventional Tool,143,110,0.7692307692307693,0.17396815337083105
-Maui's Fish Hook,Scrooge McDuck - Resourceful Miser,13,10,0.7692307692307693,0.17396815337083105
-Basil's Magnifying Glass,Vitalisphere,99,76,0.7676767676767676,0.1724141518168294
-Fishbone Quill,Pawpsicle,239,183,0.7656903765690377,0.17042776070909949
-Sisu - Empowered Sibling,Vitalisphere,153,117,0.7647058823529411,0.1694432664930029
-Might Solve a Mystery,Scrooge McDuck - Resourceful Miser,51,39,0.7647058823529411,0.1694432664930029
-Liquidator - Iced Over,Unconventional Tool,17,13,0.7647058823529411,0.1694432664930029
-Sapphire Coil,Tamatoa - Happy as a Clam,17,13,0.7647058823529411,0.1694432664930029
-Inkrunner,Sisu - Empowered Sibling,191,146,0.7643979057591623,0.1691352898992241
-Fishbone Quill,Scrooge McDuck - Resourceful Miser,212,162,0.7641509433962265,0.16888832753628824
-Fishbone Quill,Sapphire Coil,222,169,0.7612612612612613,0.16599864540132303
-Basil's Magnifying Glass,Maurice's Workshop,134,102,0.7611940298507462,0.16593141399080802
-Might Solve a Mystery,Pawpsicle,50,38,0.76,0.16473738414006178
-Might Solve a Mystery,Sapphire Coil,50,38,0.76,0.16473738414006178
-Maui - Half-Shark,"Next Stop, Olympus",25,19,0.76,0.16473738414006178
-Maui - Half-Shark,Vision of the Future,29,22,0.7586206896551724,0.16335807379523415
-Sisu - Daring Visitor,Sisu - Empowered Sibling,190,144,0.7578947368421053,0.16263212098216706
-Brawl,Sisu - Empowered Sibling,82,62,0.7560975609756098,0.16083494511567153
-Scrooge McDuck - Resourceful Miser,Sisu - Empowered Sibling,199,150,0.7537688442211056,0.15850622836116735
-Fishbone Quill,Sisu - Daring Visitor,178,134,0.7528089887640449,0.15754637290410667
-Sapphire Coil,Sisu - Empowered Sibling,220,165,0.75,0.15473738414006177
-Maui - Hero to All,Sisu - Empowered Sibling,52,39,0.75,0.15473738414006177
-Belle - Apprentice Inventor,Tamatoa - Happy as a Clam,12,9,0.75,0.15473738414006177
-Diablo - Obedient Raven,Fire the Cannons!,12,9,0.75,0.15473738414006177
-Sail the Azurite Sea,Tipo - Growing Son,12,9,0.75,0.15473738414006177
-Christopher Robin - Joining the Fun,Diablo - Obedient Raven,8,6,0.75,0.15473738414006177
-Diablo - Devoted Herald,Mowgli - Man Cub,8,6,0.75,0.15473738414006177
-Diablo - Obedient Raven,Pete - Games Referee,8,6,0.75,0.15473738414006177
-Doc - Bold Knight,John Smith - Skillful Explorer,8,6,0.75,0.15473738414006177
-Eilonwy - Princess of Llyr,Nani - Stage Manager,8,6,0.75,0.15473738414006177
-Hidden Inkcaster,Ratigan's Marvelous Trap,8,6,0.75,0.15473738414006177
-How Far I'll Go,Maui - Half-Shark,8,6,0.75,0.15473738414006177
-John Smith - Skillful Explorer,Pete - Games Referee,8,6,0.75,0.15473738414006177
-Lady - Miss Park Avenue,Nani - Stage Manager,8,6,0.75,0.15473738414006177
-Maurice's Workshop,Ratigan's Marvelous Trap,8,6,0.75,0.15473738414006177
-Pawpsicle,Ratigan's Marvelous Trap,8,6,0.75,0.15473738414006177
-Ratigan's Marvelous Trap,Scrooge McDuck - Resourceful Miser,8,6,0.75,0.15473738414006177
-Sapphire Coil,Under the Sea,8,6,0.75,0.15473738414006177
-Sisu - Empowered Sibling,Vision of the Future,8,6,0.75,0.15473738414006177
-Someone Will Lose His Head,What Else Can I Do?,8,6,0.75,0.15473738414006177
-Tipo - Growing Son,What Else Can I Do?,8,6,0.75,0.15473738414006177
-Gold Coin,Oswald - The Lucky Rabbit,91,68,0.7472527472527473,0.15199013139280904
-Gold Coin,Inkrunner,87,65,0.7471264367816092,0.15186382092167094
-Basil's Magnifying Glass,Scrooge McDuck - Resourceful Miser,129,96,0.7441860465116279,0.14892343065168967
-Basil's Magnifying Glass,Oswald - The Lucky Rabbit,125,93,0.744,0.14873738414006177
-Sapphire Coil,Unconventional Tool,161,119,0.7391304347826086,0.14386781892267042
-Basil's Magnifying Glass,Belle - Apprentice Inventor,103,76,0.7378640776699029,0.1426014618099647
-Liquidator - Iced Over,Maurice's Workshop,38,28,0.7368421052631579,0.14157948940321963
-Liquidator - Iced Over,Oswald - The Lucky Rabbit,38,28,0.7368421052631579,0.14157948940321963
-Maui - Half-Shark,Scuttle - Birdbrained,19,14,0.7368421052631579,0.14157948940321963
-"Next Stop, Olympus",Scuttle - Birdbrained,19,14,0.7368421052631579,0.14157948940321963
-Scrooge McDuck - Resourceful Miser,Unconventional Tool,148,109,0.7364864864864865,0.1412238706265483
-Basil's Magnifying Glass,Pawpsicle,146,107,0.7328767123287672,0.13761409646882894
-Inkrunner,Oswald - The Lucky Rabbit,241,176,0.7302904564315352,0.135027840571597
-"Next Stop, Olympus",Vision of the Future,22,16,0.7272727272727273,0.13201011141278907
-Pawpsicle,Tamatoa - Happy as a Clam,22,16,0.7272727272727273,0.13201011141278907
-Maui's Fish Hook,Maurice's Workshop,11,8,0.7272727272727273,0.13201011141278907
-Mulan - Resourceful Recruit,Webby Vanderquack - Mystery Enthusiast,11,8,0.7272727272727273,0.13201011141278907
-Basil's Magnifying Glass,Unconventional Tool,91,66,0.7252747252747253,0.13001210941478702
-Inkrunner,Unconventional Tool,156,113,0.7243589743589743,0.1290963584990361
-Gold Coin,Scrooge McDuck - Resourceful Miser,90,65,0.7222222222222222,0.12695960636228398
-Basil's Magnifying Glass,Brawl,61,44,0.7213114754098361,0.12604885954989786
-Liquidator - Iced Over,Sisu - Daring Visitor,43,31,0.7209302325581395,0.12566761669820126
-"Next Stop, Olympus",Sail the Azurite Sea,25,18,0.72,0.12473738414006175
-Basil's Magnifying Glass,Sisu - Daring Visitor,114,82,0.7192982456140351,0.12403562975409688
-Maui - Half-Shark,Sail the Azurite Sea,32,23,0.71875,0.12348738414006177
-Inkrunner,Maurice's Workshop,263,189,0.7186311787072244,0.12336856284728615
-Gold Coin,Unconventional Tool,67,48,0.7164179104477612,0.12115529458782293
-Gold Coin,Maurice's Workshop,102,73,0.7156862745098039,0.1204236586498657
-Gold Coin,Sapphire Coil,98,70,0.7142857142857143,0.11902309842577607
-Cogsworth - Grandfather Clock,Vision of the Future,14,10,0.7142857142857143,0.11902309842577607
-Sisu - Empowered Sibling,Tamatoa - Happy as a Clam,14,10,0.7142857142857143,0.11902309842577607
-Ariel - Spectacular Singer,The Muses - Proclaimers of Heroes,7,5,0.7142857142857143,0.11902309842577607
-Basil's Magnifying Glass,Maui's Fish Hook,7,5,0.7142857142857143,0.11902309842577607
-Be Prepared,Sisu - Empowered Sibling,7,5,0.7142857142857143,0.11902309842577607
-Diablo - Maleficent's Spy,Mowgli - Man Cub,7,5,0.7142857142857143,0.11902309842577607
-Diablo - Obedient Raven,Keep the Ancient Ways,7,5,0.7142857142857143,0.11902309842577607
-Eilonwy - Princess of Llyr,Tramp - Enterprising Dog,7,5,0.7142857142857143,0.11902309842577607
-Eilonwy - Princess of Llyr,Ursula - Deceiver,7,5,0.7142857142857143,0.11902309842577607
-Friends on the Other Side,Giant Cobra - Ghostly Serpent,7,5,0.7142857142857143,0.11902309842577607
-Galactic Communicator,Maurice's Workshop,7,5,0.7142857142857143,0.11902309842577607
-Galactic Communicator,Pawpsicle,7,5,0.7142857142857143,0.11902309842577607
-Galactic Communicator,Scrooge McDuck - Resourceful Miser,7,5,0.7142857142857143,0.11902309842577607
-Gathering Knowledge and Wisdom,Madam Mim - Snake,7,5,0.7142857142857143,0.11902309842577607
-Gramma Tala - Keeper of Ancient Stories,Sail the Azurite Sea,7,5,0.7142857142857143,0.11902309842577607
-Incrediboy - Buddy Pine,John Smith - Skillful Explorer,7,5,0.7142857142857143,0.11902309842577607
-Inkrunner,Ratigan's Marvelous Trap,7,5,0.7142857142857143,0.11902309842577607
-Inkrunner,Under the Sea,7,5,0.7142857142857143,0.11902309842577607
-Kit Cloudkicker - Tough Guy,Sapphire Coil,7,5,0.7142857142857143,0.11902309842577607
-Kit Cloudkicker - Tough Guy,Scrooge McDuck - Resourceful Miser,7,5,0.7142857142857143,0.11902309842577607
-Madam Mim - Snake,Pete - Games Referee,7,5,0.7142857142857143,0.11902309842577607
-Merlin - Goat,Pete - Games Referee,7,5,0.7142857142857143,0.11902309842577607
-Might Solve a Mystery,Tamatoa - Happy as a Clam,7,5,0.7142857142857143,0.11902309842577607
-Oswald - The Lucky Rabbit,Ratigan's Marvelous Trap,7,5,0.7142857142857143,0.11902309842577607
-Piglet - Pooh Pirate Captain,Ursula - Deceiver,7,5,0.7142857142857143,0.11902309842577607
-Scuttle - Birdbrained,Someone Will Lose His Head,7,5,0.7142857142857143,0.11902309842577607
-Sudden Chill,The Muses - Proclaimers of Heroes,7,5,0.7142857142857143,0.11902309842577607
-Oswald - The Lucky Rabbit,Sapphire Coil,255,182,0.7137254901960784,0.11846287433614022
-Oswald - The Lucky Rabbit,Pawpsicle,279,199,0.7132616487455197,0.11799903288558145
-Gold Coin,Pawpsicle,101,72,0.7128712871287128,0.11760867126877461
-Gold Coin,Sisu - Daring Visitor,80,57,0.7125,0.1172373841400618
-Unconventional Tool,Vitalisphere,118,84,0.711864406779661,0.11660179091972278
-Maurice's Workshop,Oswald - The Lucky Rabbit,270,192,0.7111111111111111,0.11584849525117291
-Pawpsicle,Unconventional Tool,173,123,0.7109826589595376,0.11572004309959938
-Maurice's Workshop,Scrooge McDuck - Resourceful Miser,269,191,0.7100371747211895,0.11477455886125132
-Maui - Hero to All,Sapphire Coil,62,44,0.7096774193548387,0.11441480349490052
-Oswald - The Lucky Rabbit,Scrooge McDuck - Resourceful Miser,244,173,0.7090163934426229,0.11375377758268468
-Oswald - The Lucky Rabbit,Unconventional Tool,158,112,0.7088607594936709,0.11359814363373266
-Oswald - The Lucky Rabbit,Vitalisphere,184,130,0.7065217391304348,0.11125912327049658
-Brawl,Fishbone Quill,85,60,0.7058823529411765,0.11061973708123829
-Basil's Magnifying Glass,Liquidator - Iced Over,17,12,0.7058823529411765,0.11061973708123829
-Sail the Azurite Sea,What Else Can I Do?,17,12,0.7058823529411765,0.11061973708123829
-Liquidator - Iced Over,Sapphire Coil,44,31,0.7045454545454546,0.10928283868551636
-Belle - Apprentice Inventor,Oswald - The Lucky Rabbit,189,133,0.7037037037037037,0.1084410878437655
-Belle - Apprentice Inventor,Scrooge McDuck - Resourceful Miser,189,133,0.7037037037037037,0.1084410878437655
-Belle - Apprentice Inventor,Maui - Hero to All,54,38,0.7037037037037037,0.1084410878437655
-Fishbone Quill,Maui - Hero to All,47,33,0.7021276595744681,0.10686504371452987
-Develop Your Brain,Maui - Half-Shark,30,21,0.7,0.10473738414006173
-Amethyst Chromicon,Doc - Bold Knight,10,7,0.7,0.10473738414006173
-Cinderella - Dream Come True,Develop Your Brain,10,7,0.7,0.10473738414006173
-Eilonwy - Princess of Llyr,Webby Vanderquack - Mystery Enthusiast,10,7,0.7,0.10473738414006173
-Giant Cobra - Ghostly Serpent,Madam Mim - Snake,10,7,0.7,0.10473738414006173
-Giant Cobra - Ghostly Serpent,Pete - Games Referee,10,7,0.7,0.10473738414006173
-Hidden Inkcaster,Scrooge McDuck - Resourceful Miser,10,7,0.7,0.10473738414006173
-Nani - Stage Manager,Snow Fort,10,7,0.7,0.10473738414006173
-Nani - Stage Manager,Ursula - Deceiver,10,7,0.7,0.10473738414006173
-Pawpsicle,Sail the Azurite Sea,10,7,0.7,0.10473738414006173
-Ursula - Deceiver,Webby Vanderquack - Mystery Enthusiast,10,7,0.7,0.10473738414006173
-Maurice's Workshop,Unconventional Tool,179,125,0.6983240223463687,0.10306140648643047
-Belle - Apprentice Inventor,Maurice's Workshop,212,148,0.6981132075471698,0.10285059168723154
-Brawl,Scrooge McDuck - Resourceful Miser,99,69,0.696969696969697,0.10170708110975879
-Liquidator - Iced Over,Vitalisphere,33,23,0.696969696969697,0.10170708110975879
-Sail the Azurite Sea,Vision of the Future,33,23,0.696969696969697,0.10170708110975879
-Inkrunner,Scrooge McDuck - Resourceful Miser,254,177,0.6968503937007874,0.10158777784084916
-Maurice's Workshop,Pawpsicle,310,216,0.6967741935483871,0.10151157768844887
-Inkrunner,Vitalisphere,204,142,0.696078431372549,0.10081581551261076
-Maui - Hero to All,Pawpsicle,69,48,0.6956521739130435,0.10038955805310523
-Liquidator - Iced Over,Scrooge McDuck - Resourceful Miser,46,32,0.6956521739130435,0.10038955805310523
-Gold Coin,Maui - Hero to All,23,16,0.6956521739130435,0.10038955805310523
-Belle - Apprentice Inventor,Gold Coin,72,50,0.6944444444444444,0.0991818285845062
-Inkrunner,Maui - Hero to All,62,43,0.6935483870967742,0.09828577123683602
-Maurice's Workshop,Sapphire Coil,287,199,0.6933797909407665,0.09811717508082829
-Belle - Apprentice Inventor,Sapphire Coil,202,140,0.693069306930693,0.09780669107075479
-Diablo - Obedient Raven,Mr. Smee - Bumbling Mate,13,9,0.6923076923076923,0.09704507644775406
-Doc - Bold Knight,Fire the Cannons!,13,9,0.6923076923076923,0.09704507644775406
-Sisu - Daring Visitor,Tamatoa - Happy as a Clam,13,9,0.6923076923076923,0.09704507644775406
-Tipo - Growing Son,Vision of the Future,13,9,0.6923076923076923,0.09704507644775406
-Inkrunner,Sapphire Coil,258,178,0.689922480620155,0.09465986476021682
-Sisu - Daring Visitor,Unconventional Tool,145,100,0.6896551724137931,0.09439255655385492
-Liquidator - Iced Over,Pawpsicle,45,31,0.6888888888888889,0.09362627302895066
-Belle - Apprentice Inventor,Inkrunner,199,137,0.6884422110552764,0.09317959519533814
-Maui - Half-Shark,Tipo - Growing Son,16,11,0.6875,0.09223738414006177
-"Next Stop, Olympus",What Else Can I Do?,16,11,0.6875,0.09223738414006177
-Pawpsicle,Scrooge McDuck - Resourceful Miser,287,197,0.686411149825784,0.09114853396584577
-Sapphire Coil,Scrooge McDuck - Resourceful Miser,270,185,0.6851851851851852,0.089922569325247
-Oswald - The Lucky Rabbit,Sisu - Daring Visitor,219,150,0.684931506849315,0.0896688909893768
-Gold Coin,Vitalisphere,73,50,0.684931506849315,0.0896688909893768
-Scrooge McDuck - Resourceful Miser,Vitalisphere,206,141,0.6844660194174758,0.08920340355753753
-Maui - Half-Shark,What Else Can I Do?,19,13,0.6842105263157895,0.08894791045585126
-Sail the Azurite Sea,Scuttle - Birdbrained,19,13,0.6842105263157895,0.08894791045585126
-Scuttle - Birdbrained,Vision of the Future,19,13,0.6842105263157895,0.08894791045585126
-Maurice's Workshop,Vitalisphere,215,147,0.6837209302325581,0.08845831437261986
-Belle - Apprentice Inventor,Vitalisphere,148,101,0.6824324324324325,0.08716981657249423
-Develop Your Brain,"Next Stop, Olympus",22,15,0.6818181818181818,0.08655556595824354
-Brawl,Maui - Hero to All,25,17,0.68,0.08473738414006182
-Sapphire Coil,Vitalisphere,206,140,0.6796116504854369,0.0843490346254987
-Maui - Hero to All,Sisu - Daring Visitor,59,40,0.6779661016949152,0.082703485834977
-Pawpsicle,Sapphire Coil,304,206,0.6776315789473685,0.08236896308743025
-Inkrunner,Pawpsicle,290,196,0.6758620689655173,0.08059945310557903
-Inkrunner,Sisu - Daring Visitor,223,150,0.672645739910314,0.07738312405037573
-Maui - Hero to All,Oswald - The Lucky Rabbit,58,39,0.6724137931034483,0.07715117724351006
-Maurice's Workshop,Sisu - Daring Visitor,244,164,0.6721311475409836,0.07686853168104535
-Maui - Hero to All,Maurice's Workshop,64,43,0.671875,0.07661238414006177
-Belle - Apprentice Inventor,Pawpsicle,225,151,0.6711111111111111,0.07584849525117288
-Belle - Apprentice Inventor,Sisu - Daring Visitor,181,121,0.6685082872928176,0.07324567143287941
-Scrooge McDuck - Resourceful Miser,Sisu - Daring Visitor,234,156,0.6666666666666666,0.0714040508067284
-Belle - Apprentice Inventor,Unconventional Tool,147,98,0.6666666666666666,0.0714040508067284
-Inkrunner,Liquidator - Iced Over,42,28,0.6666666666666666,0.0714040508067284
-Maui - Hero to All,Unconventional Tool,42,28,0.6666666666666666,0.0714040508067284
-Develop Your Brain,What Else Can I Do?,21,14,0.6666666666666666,0.0714040508067284
-Fire the Cannons!,Giant Cobra - Ghostly Serpent,15,10,0.6666666666666666,0.0714040508067284
-Amethyst Chromicon,Diablo - Obedient Raven,12,8,0.6666666666666666,0.0714040508067284
-Amethyst Chromicon,Fire the Cannons!,12,8,0.6666666666666666,0.0714040508067284
-Cinderella - Dream Come True,Sail the Azurite Sea,12,8,0.6666666666666666,0.0714040508067284
-Diablo - Obedient Raven,Doc - Bold Knight,12,8,0.6666666666666666,0.0714040508067284
-Fire the Cannons!,Pete - Games Referee,12,8,0.6666666666666666,0.0714040508067284
-Gadget's Goggles,Unconventional Tool,12,8,0.6666666666666666,0.0714040508067284
-Snow Fort,Ursula - Deceiver,12,8,0.6666666666666666,0.0714040508067284
-Akood et Emuti,Diablo - Devoted Herald,9,6,0.6666666666666666,0.0714040508067284
-Akood et Emuti,Prince John - Greediest of All,9,6,0.6666666666666666,0.0714040508067284
-Akood et Emuti,Sudden Chill,9,6,0.6666666666666666,0.0714040508067284
-Amethyst Chromicon,Pete - Games Referee,9,6,0.6666666666666666,0.0714040508067284
-Ariel - Spectacular Singer,Sudden Chill,9,6,0.6666666666666666,0.0714040508067284
-Cinderella - Dream Come True,Vision of the Future,9,6,0.6666666666666666,0.0714040508067284
-Daisy Duck - Donald's Date,Eilonwy - Princess of Llyr,9,6,0.6666666666666666,0.0714040508067284
-Diablo - Obedient Raven,Will o' the Wisp - Forest Spirit,9,6,0.6666666666666666,0.0714040508067284
-Fire the Cannons!,John Smith - Skillful Explorer,9,6,0.6666666666666666,0.0714040508067284
-Fire the Cannons!,Madam Mim - Snake,9,6,0.6666666666666666,0.0714040508067284
-Fire the Cannons!,Merlin - Goat,9,6,0.6666666666666666,0.0714040508067284
-Gramma Tala - Keeper of Ancient Stories,Pawpsicle,9,6,0.6666666666666666,0.0714040508067284
-Hidden Inkcaster,Under the Sea,9,6,0.6666666666666666,0.0714040508067284
-Madam Mim - Snake,Mr. Smee - Bumbling Mate,9,6,0.6666666666666666,0.0714040508067284
-Pawpsicle,Under the Sea,9,6,0.6666666666666666,0.0714040508067284
-Piglet - Pooh Pirate Captain,Webby Vanderquack - Mystery Enthusiast,9,6,0.6666666666666666,0.0714040508067284
-Tramp - Enterprising Dog,Ursula - Deceiver,9,6,0.6666666666666666,0.0714040508067284
-Ursula - Deceiver,Webby Vanderquack - Junior Prospector,9,6,0.6666666666666666,0.0714040508067284
-Akood et Emuti,The Bare Necessities,6,4,0.6666666666666666,0.0714040508067284
-Ariel - Spectacular Singer,We Don't Talk About Bruno,6,4,0.6666666666666666,0.0714040508067284
-Christopher Robin - Joining the Fun,Fire the Cannons!,6,4,0.6666666666666666,0.0714040508067284
-Christopher Robin - Joining the Fun,Madam Mim - Snake,6,4,0.6666666666666666,0.0714040508067284
-Daisy Duck - Donald's Date,Grandmother Willow - Ancient Advisor,6,4,0.6666666666666666,0.0714040508067284
-Daisy Duck - Donald's Date,Tramp - Street-Smart Dog,6,4,0.6666666666666666,0.0714040508067284
-Develop Your Brain,Jebidiah Farnsworth - Cookie,6,4,0.6666666666666666,0.0714040508067284
-Diablo - Devoted Herald,Strike a Good Match,6,4,0.6666666666666666,0.0714040508067284
-Diablo - Devoted Herald,The Muses - Proclaimers of Heroes,6,4,0.6666666666666666,0.0714040508067284
-Diablo - Obedient Raven,Incrediboy - Buddy Pine,6,4,0.6666666666666666,0.0714040508067284
-Dig a Little Deeper,Someone Will Lose His Head,6,4,0.6666666666666666,0.0714040508067284
-Friends on the Other Side,Incrediboy - Buddy Pine,6,4,0.6666666666666666,0.0714040508067284
-Galactic Communicator,Hidden Inkcaster,6,4,0.6666666666666666,0.0714040508067284
-Galactic Communicator,Inkrunner,6,4,0.6666666666666666,0.0714040508067284
-Galactic Communicator,Oswald - The Lucky Rabbit,6,4,0.6666666666666666,0.0714040508067284
-Galactic Communicator,Ratigan's Marvelous Trap,6,4,0.6666666666666666,0.0714040508067284
-Gramma Tala - Keeper of Ancient Stories,Sisu - Empowered Sibling,6,4,0.6666666666666666,0.0714040508067284
-Grandmother Willow - Ancient Advisor,Tramp - Street-Smart Dog,6,4,0.6666666666666666,0.0714040508067284
-Incrediboy - Buddy Pine,Madam Mim - Snake,6,4,0.6666666666666666,0.0714040508067284
-Jebidiah Farnsworth - Cookie,Sail the Azurite Sea,6,4,0.6666666666666666,0.0714040508067284
-Kida - Creative Thinker,Scuttle - Birdbrained,6,4,0.6666666666666666,0.0714040508067284
-Kit Cloudkicker - Tough Guy,Ratigan's Marvelous Trap,6,4,0.6666666666666666,0.0714040508067284
-Kit Cloudkicker - Tough Guy,Under the Sea,6,4,0.6666666666666666,0.0714040508067284
-Lady - Miss Park Avenue,Snow Fort,6,4,0.6666666666666666,0.0714040508067284
-Madam Mim - Snake,Merlin - Goat,6,4,0.6666666666666666,0.0714040508067284
-Mulan - Resourceful Recruit,Piglet - Pooh Pirate Captain,6,4,0.6666666666666666,0.0714040508067284
-Nani - Stage Manager,Webby Vanderquack - Junior Prospector,6,4,0.6666666666666666,0.0714040508067284
-Prince John - Greediest of All,The Muses - Proclaimers of Heroes,6,4,0.6666666666666666,0.0714040508067284
-Rapunzel - Gifted with Healing,Ursula - Deceiver,6,4,0.6666666666666666,0.0714040508067284
-Strike a Good Match,Sudden Chill,6,4,0.6666666666666666,0.0714040508067284
-Pawpsicle,Vitalisphere,224,149,0.6651785714285714,0.06991595556863317
-Maui - Hero to All,Scrooge McDuck - Resourceful Miser,59,39,0.6610169491525424,0.06575433329260416
-Brawl,Vitalisphere,79,52,0.6582278481012658,0.06296523224132755
-Brawl,Sapphire Coil,109,71,0.6513761467889908,0.05611353092905258
-Pawpsicle,Sisu - Daring Visitor,263,171,0.6501901140684411,0.054927498208502845
-Sapphire Coil,Sisu - Daring Visitor,259,168,0.6486486486486487,0.05338603278871046
-Brawl,Gold Coin,37,24,0.6486486486486487,0.05338603278871046
-Develop Your Brain,Vision of the Future,34,22,0.6470588235294118,0.05179620766947357
-Fire the Cannons!,Mr. Smee - Bumbling Mate,17,11,0.6470588235294118,0.05179620766947357
-Vision of the Future,What Else Can I Do?,17,11,0.6470588235294118,0.05179620766947357
-Brawl,Maurice's Workshop,110,71,0.6454545454545455,0.050191929594607276
-Sisu - Daring Visitor,Vitalisphere,185,119,0.6432432432432432,0.047980627383305
-Cogsworth - Grandfather Clock,Sail the Azurite Sea,14,9,0.6428571428571429,0.04759452699720468
-Daisy Duck - Donald's Date,Mulan - Resourceful Recruit,14,9,0.6428571428571429,0.04759452699720468
-Brawl,Inkrunner,106,68,0.6415094339622641,0.04624681810232589
-Belle - Apprentice Inventor,Brawl,89,57,0.6404494382022472,0.045186822342308974
-Brawl,Oswald - The Lucky Rabbit,97,62,0.6391752577319587,0.043912641872020486
-Amethyst Chromicon,John Smith - Skillful Explorer,11,7,0.6363636363636364,0.04110102050369813
-Doc - Bold Knight,Gathering Knowledge and Wisdom,11,7,0.6363636363636364,0.04110102050369813
-Doc - Bold Knight,Madam Mim - Snake,11,7,0.6363636363636364,0.04110102050369813
-Eilonwy - Princess of Llyr,Snow Fort,11,7,0.6363636363636364,0.04110102050369813
-Gadget's Goggles,Sisu - Empowered Sibling,11,7,0.6363636363636364,0.04110102050369813
-Giant Cobra - Ghostly Serpent,John Smith - Skillful Explorer,11,7,0.6363636363636364,0.04110102050369813
-Hidden Inkcaster,Maurice's Workshop,11,7,0.6363636363636364,0.04110102050369813
-Hidden Inkcaster,Sapphire Coil,11,7,0.6363636363636364,0.04110102050369813
-How Far I'll Go,Vision of the Future,11,7,0.6363636363636364,0.04110102050369813
-Mulan - Resourceful Recruit,Snow Fort,11,7,0.6363636363636364,0.04110102050369813
-Piglet - Pooh Pirate Captain,Snow Fort,11,7,0.6363636363636364,0.04110102050369813
-Tamatoa - Happy as a Clam,Vitalisphere,11,7,0.6363636363636364,0.04110102050369813
-Webby Vanderquack - Junior Prospector,Webby Vanderquack - Mystery Enthusiast,11,7,0.6363636363636364,0.04110102050369813
-Brawl,Sisu - Daring Visitor,106,67,0.6320754716981132,0.03681285583817495
-Brawl,Pawpsicle,122,77,0.6311475409836066,0.035884925123668365
-Daisy Duck - Donald's Date,Snow Fort,16,10,0.625,0.029737384140061773
-Dig a Little Deeper,Maui - Half-Shark,16,10,0.625,0.029737384140061773
-Dig a Little Deeper,"Next Stop, Olympus",16,10,0.625,0.029737384140061773
-Doc - Bold Knight,Mr. Smee - Bumbling Mate,16,10,0.625,0.029737384140061773
-Amethyst Chromicon,Merlin - Goat,8,5,0.625,0.029737384140061773
-Ariel - Spectacular Singer,Mowgli - Man Cub,8,5,0.625,0.029737384140061773
-Basil's Magnifying Glass,Gadget's Goggles,8,5,0.625,0.029737384140061773
-Christopher Robin - Joining the Fun,Giant Cobra - Ghostly Serpent,8,5,0.625,0.029737384140061773
-Develop Your Brain,Pawpsicle,8,5,0.625,0.029737384140061773
-Diablo - Devoted Herald,We Don't Talk About Bruno,8,5,0.625,0.029737384140061773
-Diablo - Maleficent's Spy,Prince John - Greediest of All,8,5,0.625,0.029737384140061773
-Diablo - Maleficent's Spy,Sudden Chill,8,5,0.625,0.029737384140061773
-Diablo - Obedient Raven,Gathering Knowledge and Wisdom,8,5,0.625,0.029737384140061773
-Gramma Tala - Keeper of Ancient Stories,How Far I'll Go,8,5,0.625,0.029737384140061773
-How Far I'll Go,Pawpsicle,8,5,0.625,0.029737384140061773
-Inkrunner,Kit Cloudkicker - Tough Guy,8,5,0.625,0.029737384140061773
-John Smith - Skillful Explorer,Merlin - Goat,8,5,0.625,0.029737384140061773
-Kit Cloudkicker - Tough Guy,Maurice's Workshop,8,5,0.625,0.029737384140061773
-Scuttle - Birdbrained,Tipo - Growing Son,8,5,0.625,0.029737384140061773
-Tramp - Enterprising Dog,Webby Vanderquack - Junior Prospector,8,5,0.625,0.029737384140061773
-Develop Your Brain,Sail the Azurite Sea,39,24,0.6153846153846154,0.020121999524677192
-Cogsworth - Grandfather Clock,Maui - Half-Shark,13,8,0.6153846153846154,0.020121999524677192
-Cogsworth - Grandfather Clock,"Next Stop, Olympus",13,8,0.6153846153846154,0.020121999524677192
-Daisy Duck - Donald's Date,Piglet - Pooh Pirate Captain,13,8,0.6153846153846154,0.020121999524677192
-Gadget's Goggles,Maurice's Workshop,13,8,0.6153846153846154,0.020121999524677192
-Gadget's Goggles,Sapphire Coil,13,8,0.6153846153846154,0.020121999524677192
-Snow Fort,Webby Vanderquack - Mystery Enthusiast,13,8,0.6153846153846154,0.020121999524677192
-Brawl,Unconventional Tool,67,41,0.6119402985074627,0.01667768264752445
-Maui - Hero to All,Vitalisphere,46,28,0.6086956521739131,0.013433036313974855
-Develop Your Brain,Scuttle - Birdbrained,20,12,0.6,0.004737384140061751
-Dig a Little Deeper,Sail the Azurite Sea,15,9,0.6,0.004737384140061751
-Giant Cobra - Ghostly Serpent,Mr. Smee - Bumbling Mate,15,9,0.6,0.004737384140061751
-Scuttle - Birdbrained,What Else Can I Do?,15,9,0.6,0.004737384140061751
-Akood et Emuti,Mowgli - Man Cub,10,6,0.6,0.004737384140061751
-Be Prepared,Sail the Azurite Sea,10,6,0.6,0.004737384140061751
-Be Prepared,Vision of the Future,10,6,0.6,0.004737384140061751
-Daisy Duck - Donald's Date,Ursula - Deceiver,10,6,0.6,0.004737384140061751
-Diablo - Obedient Raven,John Smith - Skillful Explorer,10,6,0.6,0.004737384140061751
-Diablo - Obedient Raven,Merlin - Goat,10,6,0.6,0.004737384140061751
-Doc - Bold Knight,Pete - Games Referee,10,6,0.6,0.004737384140061751
-Gadget's Goggles,Sisu - Daring Visitor,10,6,0.6,0.004737384140061751
-Giant Cobra - Ghostly Serpent,Merlin - Goat,10,6,0.6,0.004737384140061751
-Gramma Tala - Keeper of Ancient Stories,Vision of the Future,10,6,0.6,0.004737384140061751
-Hidden Inkcaster,Inkrunner,10,6,0.6,0.004737384140061751
-Hidden Inkcaster,Oswald - The Lucky Rabbit,10,6,0.6,0.004737384140061751
-How Far I'll Go,Sail the Azurite Sea,10,6,0.6,0.004737384140061751
-John Smith - Skillful Explorer,Mr. Smee - Bumbling Mate,10,6,0.6,0.004737384140061751
-Lady - Decisive Dog,Nani - Stage Manager,10,6,0.6,0.004737384140061751
-Lady - Miss Park Avenue,Mulan - Resourceful Recruit,10,6,0.6,0.004737384140061751
-Maui - Half-Shark,Merryweather - Feisty Fairy,10,6,0.6,0.004737384140061751
-Merlin - Goat,Mr. Smee - Bumbling Mate,10,6,0.6,0.004737384140061751
-Merryweather - Feisty Fairy,"Next Stop, Olympus",10,6,0.6,0.004737384140061751
-Merryweather - Feisty Fairy,Sail the Azurite Sea,10,6,0.6,0.004737384140061751
-Mulan - Resourceful Recruit,Tramp - Enterprising Dog,10,6,0.6,0.004737384140061751
-Ariel - Spectacular Singer,Strike a Good Match,5,3,0.6,0.004737384140061751
-Christopher Robin - Joining the Fun,Gathering Knowledge and Wisdom,5,3,0.6,0.004737384140061751
-Christopher Robin - Joining the Fun,Incrediboy - Buddy Pine,5,3,0.6,0.004737384140061751
-Christopher Robin - Joining the Fun,Pete - Games Referee,5,3,0.6,0.004737384140061751
-Cinderella - Ballroom Sensation,Diablo - Devoted Herald,5,3,0.6,0.004737384140061751
-Develop Your Brain,Kida - Crystal Scion,5,3,0.6,0.004737384140061751
-Develop Your Brain,Maui - Hero to All,5,3,0.6,0.004737384140061751
-Diablo - Devoted Herald,The Bare Necessities,5,3,0.6,0.004737384140061751
-Diablo - Maleficent's Spy,The Bare Necessities,5,3,0.6,0.004737384140061751
-Doc - Bold Knight,Keep the Ancient Ways,5,3,0.6,0.004737384140061751
-Eilonwy - Princess of Llyr,Rapunzel - Gifted with Healing,5,3,0.6,0.004737384140061751
-Galactic Communicator,Kit Cloudkicker - Tough Guy,5,3,0.6,0.004737384140061751
-Giant Cobra - Ghostly Serpent,Keep the Ancient Ways,5,3,0.6,0.004737384140061751
-Gold Coin,Tamatoa - Happy as a Clam,5,3,0.6,0.004737384140061751
-Gramma Tala - Keeper of Ancient Stories,Maui - Hero to All,5,3,0.6,0.004737384140061751
-How Far I'll Go,Sisu - Empowered Sibling,5,3,0.6,0.004737384140061751
-How Far I'll Go,Tipo - Growing Son,5,3,0.6,0.004737384140061751
-Jebidiah Farnsworth - Cookie,"Next Stop, Olympus",5,3,0.6,0.004737384140061751
-Keep the Ancient Ways,Madam Mim - Snake,5,3,0.6,0.004737384140061751
-Kida - Creative Thinker,Maui - Half-Shark,5,3,0.6,0.004737384140061751
-Kida - Crystal Scion,Sail the Azurite Sea,5,3,0.6,0.004737384140061751
-Lady - Miss Park Avenue,Rapunzel - Gifted with Healing,5,3,0.6,0.004737384140061751
-Let the Storm Rage On,Rapunzel - Gifted with Healing,5,3,0.6,0.004737384140061751
-Let the Storm Rage On,Ursula - Vanessa,5,3,0.6,0.004737384140061751
-Madam Mim - Snake,Will o' the Wisp - Forest Spirit,5,3,0.6,0.004737384140061751
-Maui - Hero to All,Sail the Azurite Sea,5,3,0.6,0.004737384140061751
-Maui - Hero to All,Vision of the Future,5,3,0.6,0.004737384140061751
-Mulan - Resourceful Recruit,Rapunzel - Gifted with Healing,5,3,0.6,0.004737384140061751
-Pawpsicle,Tipo - Growing Son,5,3,0.6,0.004737384140061751
-Prince John - Greediest of All,Strike a Good Match,5,3,0.6,0.004737384140061751
-Tamatoa - Happy as a Clam,Unconventional Tool,5,3,0.6,0.004737384140061751
-The Muses - Proclaimers of Heroes,We Don't Talk About Bruno,5,3,0.6,0.004737384140061751
-Gadget's Goggles,Pawpsicle,17,10,0.5882352941176471,-0.007027321742291148
-Amethyst Chromicon,Giant Cobra - Ghostly Serpent,12,7,0.5833333333333334,-0.011929282526604856
-Amethyst Chromicon,Mr. Smee - Bumbling Mate,12,7,0.5833333333333334,-0.011929282526604856
-Cogsworth - Grandfather Clock,What Else Can I Do?,12,7,0.5833333333333334,-0.011929282526604856
-Daisy Duck - Donald's Date,Webby Vanderquack - Mystery Enthusiast,12,7,0.5833333333333334,-0.011929282526604856
-Fishbone Quill,Gadget's Goggles,12,7,0.5833333333333334,-0.011929282526604856
-Hidden Inkcaster,Pawpsicle,12,7,0.5833333333333334,-0.011929282526604856
-Lady - Decisive Dog,Mulan - Resourceful Recruit,12,7,0.5833333333333334,-0.011929282526604856
-Lady - Decisive Dog,Piglet - Pooh Pirate Captain,12,7,0.5833333333333334,-0.011929282526604856
-Lady - Decisive Dog,Ursula - Deceiver,12,7,0.5833333333333334,-0.011929282526604856
-Develop Your Brain,Dig a Little Deeper,14,8,0.5714285714285714,-0.02383404443136683
-Diablo - Obedient Raven,Giant Cobra - Ghostly Serpent,14,8,0.5714285714285714,-0.02383404443136683
-Doc - Bold Knight,Giant Cobra - Ghostly Serpent,14,8,0.5714285714285714,-0.02383404443136683
-Akood et Emuti,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.02383404443136683
-Akood et Emuti,We Don't Talk About Bruno,7,4,0.5714285714285714,-0.02383404443136683
-Ariel - Spectacular Singer,Prince John - Greediest of All,7,4,0.5714285714285714,-0.02383404443136683
-Be Prepared,Gramma Tala - Keeper of Ancient Stories,7,4,0.5714285714285714,-0.02383404443136683
-Be Prepared,How Far I'll Go,7,4,0.5714285714285714,-0.02383404443136683
-Be Prepared,Pawpsicle,7,4,0.5714285714285714,-0.02383404443136683
-Belle - Apprentice Inventor,Kit Cloudkicker - Tough Guy,7,4,0.5714285714285714,-0.02383404443136683
-Belle - Apprentice Inventor,Under the Sea,7,4,0.5714285714285714,-0.02383404443136683
-Cinderella - Ballroom Sensation,Sudden Chill,7,4,0.5714285714285714,-0.02383404443136683
-Cinderella - Ballroom Sensation,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.02383404443136683
-Daisy Duck - Donald's Date,Webby Vanderquack - Junior Prospector,7,4,0.5714285714285714,-0.02383404443136683
-Develop Your Brain,Kida - Creative Thinker,7,4,0.5714285714285714,-0.02383404443136683
-Diablo - Maleficent's Spy,We Don't Talk About Bruno,7,4,0.5714285714285714,-0.02383404443136683
-Doc - Bold Knight,Friends on the Other Side,7,4,0.5714285714285714,-0.02383404443136683
-Doc - Bold Knight,Merlin - Goat,7,4,0.5714285714285714,-0.02383404443136683
-Eilonwy - Princess of Llyr,Piglet - Pooh Pirate Captain,7,4,0.5714285714285714,-0.02383404443136683
-Friends on the Other Side,Mr. Smee - Bumbling Mate,7,4,0.5714285714285714,-0.02383404443136683
-Gathering Knowledge and Wisdom,Incrediboy - Buddy Pine,7,4,0.5714285714285714,-0.02383404443136683
-Gathering Knowledge and Wisdom,John Smith - Skillful Explorer,7,4,0.5714285714285714,-0.02383404443136683
-Kida - Creative Thinker,"Next Stop, Olympus",7,4,0.5714285714285714,-0.02383404443136683
-Kida - Creative Thinker,Vision of the Future,7,4,0.5714285714285714,-0.02383404443136683
-Kit Cloudkicker - Tough Guy,Oswald - The Lucky Rabbit,7,4,0.5714285714285714,-0.02383404443136683
-Merryweather - Feisty Fairy,Tipo - Growing Son,7,4,0.5714285714285714,-0.02383404443136683
-Mowgli - Man Cub,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.02383404443136683
-Mulan - Resourceful Recruit,Webby Vanderquack - Junior Prospector,7,4,0.5714285714285714,-0.02383404443136683
-Nani - Stage Manager,Tramp - Enterprising Dog,7,4,0.5714285714285714,-0.02383404443136683
-Rapunzel - Gifted with Healing,Snow Fort,7,4,0.5714285714285714,-0.02383404443136683
-Tramp - Enterprising Dog,Webby Vanderquack - Mystery Enthusiast,7,4,0.5714285714285714,-0.02383404443136683
-Cogsworth - Grandfather Clock,Develop Your Brain,16,9,0.5625,-0.03276261585993823
-Brawl,Liquidator - Iced Over,18,10,0.5555555555555556,-0.039707060304382646
-Gadget's Goggles,Oswald - The Lucky Rabbit,18,10,0.5555555555555556,-0.039707060304382646
-Belle - Apprentice Inventor,Hidden Inkcaster,9,5,0.5555555555555556,-0.039707060304382646
-Develop Your Brain,Gramma Tala - Keeper of Ancient Stories,9,5,0.5555555555555556,-0.039707060304382646
-Eilonwy - Princess of Llyr,Lady - Decisive Dog,9,5,0.5555555555555556,-0.039707060304382646
-Fire the Cannons!,Gathering Knowledge and Wisdom,9,5,0.5555555555555556,-0.039707060304382646
-Fire the Cannons!,Incrediboy - Buddy Pine,9,5,0.5555555555555556,-0.039707060304382646
-Gadget's Goggles,Gold Coin,9,5,0.5555555555555556,-0.039707060304382646
-Gathering Knowledge and Wisdom,Giant Cobra - Ghostly Serpent,9,5,0.5555555555555556,-0.039707060304382646
-Giant Cobra - Ghostly Serpent,Incrediboy - Buddy Pine,9,5,0.5555555555555556,-0.039707060304382646
-Hidden Inkcaster,Kit Cloudkicker - Tough Guy,9,5,0.5555555555555556,-0.039707060304382646
-Incrediboy - Buddy Pine,Pete - Games Referee,9,5,0.5555555555555556,-0.039707060304382646
-Kit Cloudkicker - Tough Guy,Pawpsicle,9,5,0.5555555555555556,-0.039707060304382646
-Merryweather - Feisty Fairy,Vision of the Future,9,5,0.5555555555555556,-0.039707060304382646
-Mowgli - Man Cub,Prince John - Greediest of All,9,5,0.5555555555555556,-0.039707060304382646
-Mowgli - Man Cub,Sudden Chill,9,5,0.5555555555555556,-0.039707060304382646
-Mowgli - Man Cub,We Don't Talk About Bruno,9,5,0.5555555555555556,-0.039707060304382646
-Pete - Games Referee,Will o' the Wisp - Forest Spirit,9,5,0.5555555555555556,-0.039707060304382646
-Snow Fort,Tramp - Enterprising Dog,9,5,0.5555555555555556,-0.039707060304382646
-Snow Fort,Webby Vanderquack - Junior Prospector,9,5,0.5555555555555556,-0.039707060304382646
-Be Prepared,Develop Your Brain,11,6,0.5454545454545454,-0.04980807040539281
-Cogsworth - Grandfather Clock,Scuttle - Birdbrained,11,6,0.5454545454545454,-0.04980807040539281
-Fire the Cannons!,Will o' the Wisp - Forest Spirit,11,6,0.5454545454545454,-0.04980807040539281
-Gathering Knowledge and Wisdom,Mr. Smee - Bumbling Mate,11,6,0.5454545454545454,-0.04980807040539281
-Merryweather - Feisty Fairy,Scuttle - Birdbrained,11,6,0.5454545454545454,-0.04980807040539281
-Mr. Smee - Bumbling Mate,Pete - Games Referee,11,6,0.5454545454545454,-0.04980807040539281
-Pawpsicle,Vision of the Future,11,6,0.5454545454545454,-0.04980807040539281
-Prince John - Greediest of All,Sudden Chill,11,6,0.5454545454545454,-0.04980807040539281
-Akood et Emuti,Ariel - Spectacular Singer,13,7,0.5384615384615384,-0.05680107739839979
-Dig a Little Deeper,Scuttle - Birdbrained,13,7,0.5384615384615384,-0.05680107739839979
-Lady - Decisive Dog,Webby Vanderquack - Mystery Enthusiast,13,7,0.5384615384615384,-0.05680107739839979
-Dig a Little Deeper,Vision of the Future,15,8,0.5333333333333333,-0.0619292825266049
-Lady - Decisive Dog,Snow Fort,15,8,0.5333333333333333,-0.0619292825266049
-Develop Your Brain,Tipo - Growing Son,17,9,0.5294117647058824,-0.06585085115405587
-Gadget's Goggles,Inkrunner,14,7,0.5,-0.09526261585993823
-Daisy Duck - Donald's Date,Lady - Miss Park Avenue,12,6,0.5,-0.09526261585993823
-Dig a Little Deeper,What Else Can I Do?,12,6,0.5,-0.09526261585993823
-Lady - Decisive Dog,Lady - Miss Park Avenue,12,6,0.5,-0.09526261585993823
-Develop Your Brain,How Far I'll Go,10,5,0.5,-0.09526261585993823
-Doc - Bold Knight,Will o' the Wisp - Forest Spirit,10,5,0.5,-0.09526261585993823
-Gadget's Goggles,Lucky Dime,10,5,0.5,-0.09526261585993823
-Incrediboy - Buddy Pine,Mr. Smee - Bumbling Mate,10,5,0.5,-0.09526261585993823
-Kida - Creative Thinker,Sail the Azurite Sea,10,5,0.5,-0.09526261585993823
-Amethyst Chromicon,Will o' the Wisp - Forest Spirit,8,4,0.5,-0.09526261585993823
-Christopher Robin - Joining the Fun,Mr. Smee - Bumbling Mate,8,4,0.5,-0.09526261585993823
-Cogsworth - Grandfather Clock,Dig a Little Deeper,8,4,0.5,-0.09526261585993823
-Cogsworth - Grandfather Clock,Tipo - Growing Son,8,4,0.5,-0.09526261585993823
-Dig a Little Deeper,Merryweather - Feisty Fairy,8,4,0.5,-0.09526261585993823
-Doc - Bold Knight,Incrediboy - Buddy Pine,8,4,0.5,-0.09526261585993823
-Gadget's Goggles,Vitalisphere,8,4,0.5,-0.09526261585993823
-Gathering Knowledge and Wisdom,Pete - Games Referee,8,4,0.5,-0.09526261585993823
-Keep the Ancient Ways,Pete - Games Referee,8,4,0.5,-0.09526261585993823
-Lady - Decisive Dog,Webby Vanderquack - Junior Prospector,8,4,0.5,-0.09526261585993823
-Prince John - Greediest of All,We Don't Talk About Bruno,8,4,0.5,-0.09526261585993823
-Sudden Chill,We Don't Talk About Bruno,8,4,0.5,-0.09526261585993823
-Amethyst Chromicon,Incrediboy - Buddy Pine,6,3,0.5,-0.09526261585993823
-Bobby Zimuruski - Spray Cheese Kid,Grandmother Willow - Ancient Advisor,6,3,0.5,-0.09526261585993823
-Bobby Zimuruski - Spray Cheese Kid,Tramp - Street-Smart Dog,6,3,0.5,-0.09526261585993823
-Brawl,Gadget's Goggles,6,3,0.5,-0.09526261585993823
-Christopher Robin - Joining the Fun,Friends on the Other Side,6,3,0.5,-0.09526261585993823
-Cinderella - Ballroom Sensation,Prince John - Greediest of All,6,3,0.5,-0.09526261585993823
-Gramma Tala - Keeper of Ancient Stories,Tipo - Growing Son,6,3,0.5,-0.09526261585993823
-Grandmother Willow - Ancient Advisor,Lady - Decisive Dog,6,3,0.5,-0.09526261585993823
-Grandmother Willow - Ancient Advisor,Lady - Miss Park Avenue,6,3,0.5,-0.09526261585993823
-Jebidiah Farnsworth - Cookie,Maui - Half-Shark,6,3,0.5,-0.09526261585993823
-Lady - Decisive Dog,Tramp - Street-Smart Dog,6,3,0.5,-0.09526261585993823
-Lady - Miss Park Avenue,Tramp - Street-Smart Dog,6,3,0.5,-0.09526261585993823
-Mowgli - Man Cub,Strike a Good Match,6,3,0.5,-0.09526261585993823
-Rapunzel - Gifted with Healing,Ursula - Vanessa,6,3,0.5,-0.09526261585993823
-Rapunzel - Gifted with Healing,Webby Vanderquack - Mystery Enthusiast,6,3,0.5,-0.09526261585993823
-Strike a Good Match,The Muses - Proclaimers of Heroes,6,3,0.5,-0.09526261585993823
-Daisy Duck - Donald's Date,Lady - Decisive Dog,19,9,0.47368421052631576,-0.12157840533362246
-Ariel - Spectacular Singer,Cinderella - Ballroom Sensation,11,5,0.45454545454545453,-0.1407171613144837
-Lady - Miss Park Avenue,Tramp - Enterprising Dog,9,4,0.4444444444444444,-0.1508181714154938
-Gadget's Goggles,Scrooge McDuck - Resourceful Miser,14,6,0.42857142857142855,-0.16669118728850968
-Amethyst Chromicon,Gathering Knowledge and Wisdom,7,3,0.42857142857142855,-0.16669118728850968
-Bobby Zimuruski - Spray Cheese Kid,Daisy Duck - Donald's Date,7,3,0.42857142857142855,-0.16669118728850968
-Cinderella - Ballroom Sensation,Mowgli - Man Cub,7,3,0.42857142857142855,-0.16669118728850968
-Daisy Duck - Donald's Date,Rapunzel - Gifted with Healing,7,3,0.42857142857142855,-0.16669118728850968
-Gathering Knowledge and Wisdom,Will o' the Wisp - Forest Spirit,7,3,0.42857142857142855,-0.16669118728850968
-Incrediboy - Buddy Pine,Will o' the Wisp - Forest Spirit,7,3,0.42857142857142855,-0.16669118728850968
-Lady - Decisive Dog,Rapunzel - Gifted with Healing,7,3,0.42857142857142855,-0.16669118728850968
-Maui - Hero to All,Tamatoa - Happy as a Clam,7,3,0.42857142857142855,-0.16669118728850968
-Lady - Decisive Dog,Tramp - Enterprising Dog,12,5,0.4166666666666667,-0.17859594919327154
-Mr. Smee - Bumbling Mate,Will o' the Wisp - Forest Spirit,12,5,0.4166666666666667,-0.17859594919327154
-Daisy Duck - Donald's Date,Tramp - Enterprising Dog,10,4,0.4,-0.1952626158599382
-Akood et Emuti,Prince Naveen - Ukulele Player,5,2,0.4,-0.1952626158599382
-Akood et Emuti,Rapunzel - Gifted with Healing,5,2,0.4,-0.1952626158599382
-Akood et Emuti,Ursula - Vanessa,5,2,0.4,-0.1952626158599382
-Ariel - Spectacular Singer,Rapunzel - Gifted with Healing,5,2,0.4,-0.1952626158599382
-Ariel - Spectacular Singer,Ursula - Vanessa,5,2,0.4,-0.1952626158599382
-Cinderella - Ballroom Sensation,We Don't Talk About Bruno,5,2,0.4,-0.1952626158599382
-Dig a Little Deeper,Kida - Creative Thinker,5,2,0.4,-0.1952626158599382
-Friends on the Other Side,Will o' the Wisp - Forest Spirit,5,2,0.4,-0.1952626158599382
-Gadget's Goggles,Maui - Hero to All,5,2,0.4,-0.1952626158599382
-Gathering Knowledge and Wisdom,Merlin - Goat,5,2,0.4,-0.1952626158599382
-John Smith - Skillful Explorer,Will o' the Wisp - Forest Spirit,5,2,0.4,-0.1952626158599382
-Olaf - Snowman of Action,Sail the Azurite Sea,5,2,0.4,-0.1952626158599382
-Pete - Games Referee,Strength of a Raging Fire,5,2,0.4,-0.1952626158599382
-Prince Naveen - Ukulele Player,Rapunzel - Gifted with Healing,5,2,0.4,-0.1952626158599382
-Prince Naveen - Ukulele Player,Ursula - Vanessa,5,2,0.4,-0.1952626158599382
-Akood et Emuti,Strike a Good Match,8,3,0.375,-0.22026261585993823
-Christopher Robin - Joining the Fun,Doc - Bold Knight,8,3,0.375,-0.22026261585993823
-Cogsworth - Grandfather Clock,Merryweather - Feisty Fairy,8,3,0.375,-0.22026261585993823
-Giant Cobra - Ghostly Serpent,Will o' the Wisp - Forest Spirit,8,3,0.375,-0.22026261585993823
-Merryweather - Feisty Fairy,What Else Can I Do?,8,3,0.375,-0.22026261585993823
-Develop Your Brain,Merryweather - Feisty Fairy,11,4,0.36363636363636365,-0.23162625222357458
-Akood et Emuti,Cinderella - Ballroom Sensation,12,4,0.3333333333333333,-0.2619292825266049
-Belle - Apprentice Inventor,Gadget's Goggles,12,4,0.3333333333333333,-0.2619292825266049
-Bobby Zimuruski - Spray Cheese Kid,Lady - Decisive Dog,6,2,0.3333333333333333,-0.2619292825266049
-Christopher Robin - Joining the Fun,Will o' the Wisp - Forest Spirit,6,2,0.3333333333333333,-0.2619292825266049
-Rapunzel - Gifted with Healing,Tramp - Enterprising Dog,6,2,0.3333333333333333,-0.2619292825266049
-Bobby Zimuruski - Spray Cheese Kid,Lady - Miss Park Avenue,7,2,0.2857142857142857,-0.30954833014565253
-Cinderella - Ballroom Sensation,Strike a Good Match,7,2,0.2857142857142857,-0.30954833014565253
-Keep the Ancient Ways,Strength of a Raging Fire,5,1,0.2,-0.3952626158599382
-Merlin - Goat,Will o' the Wisp - Forest Spirit,5,1,0.2,-0.3952626158599382
+Brawl,Tamatoa - So Shiny!,29,29,1.0,0.4036939313984169
+Ghostly Tale,"Next Stop, Olympus",15,15,1.0,0.4036939313984169
+Ghostly Tale,Sail the Azurite Sea,14,14,1.0,0.4036939313984169
+Liquidator - Iced Over,Tamatoa - So Shiny!,14,14,1.0,0.4036939313984169
+Develop Your Brain,Ghostly Tale,13,13,1.0,0.4036939313984169
+Ghostly Tale,Vision of the Future,13,13,1.0,0.4036939313984169
+Ghostly Tale,Scuttle - Birdbrained,11,11,1.0,0.4036939313984169
+Ghostly Tale,What Else Can I Do?,11,11,1.0,0.4036939313984169
+Tamatoa - Happy as a Clam,Tamatoa - So Shiny!,9,9,1.0,0.4036939313984169
+Oswald - The Lucky Rabbit,The Sword of Shan-Yu,8,8,1.0,0.4036939313984169
+Cinderella - Dream Come True,Ghostly Tale,7,7,1.0,0.4036939313984169
+Dig a Little Deeper,Ghostly Tale,7,7,1.0,0.4036939313984169
+Hidden Inkcaster,Tamatoa - Happy as a Clam,7,7,1.0,0.4036939313984169
+Maui - Hero to All,Ruby Chromicon,7,7,1.0,0.4036939313984169
+Scrooge McDuck - Resourceful Miser,The Sword of Shan-Yu,7,7,1.0,0.4036939313984169
+Scrooge McDuck - Resourceful Miser,Under the Sea,7,7,1.0,0.4036939313984169
+Cogsworth - Grandfather Clock,Ghostly Tale,6,6,1.0,0.4036939313984169
+Ghostly Tale,Someone Will Lose His Head,6,6,1.0,0.4036939313984169
+Gold Coin,The Sword of Shan-Yu,6,6,1.0,0.4036939313984169
+Lucky Dime,Maui's Fish Hook,6,6,1.0,0.4036939313984169
+Lucky Dime,The Sword of Shan-Yu,6,6,1.0,0.4036939313984169
+Ratigan's Marvelous Trap,Tamatoa - Happy as a Clam,6,6,1.0,0.4036939313984169
+Ratigan's Marvelous Trap,Under the Sea,6,6,1.0,0.4036939313984169
+Sisu - Empowered Sibling,The Sword of Shan-Yu,6,6,1.0,0.4036939313984169
+Tamatoa - Happy as a Clam,Under the Sea,6,6,1.0,0.4036939313984169
+The Sword of Shan-Yu,Unconventional Tool,6,6,1.0,0.4036939313984169
+The Sword of Shan-Yu,Vitalisphere,6,6,1.0,0.4036939313984169
+Brom Bones - Burly Bully,Lucky Dime,5,5,1.0,0.4036939313984169
+Eilonwy - Princess of Llyr,Lady - Miss Park Avenue,5,5,1.0,0.4036939313984169
+Galactic Communicator,Under the Sea,5,5,1.0,0.4036939313984169
+Maui's Fish Hook,Tamatoa - So Shiny!,5,5,1.0,0.4036939313984169
+Mowgli - Man Cub,Under the Sea,5,5,1.0,0.4036939313984169
+Basil's Magnifying Glass,Tamatoa - So Shiny!,55,54,0.9818181818181818,0.38551211321659873
+Lucky Dime,Tamatoa - So Shiny!,78,75,0.9615384615384616,0.3652323929368785
+Gold Coin,Tamatoa - So Shiny!,51,49,0.9607843137254902,0.36447824512390714
+Fishbone Quill,Tamatoa - So Shiny!,92,88,0.9565217391304348,0.36021567052885173
+Might Solve a Mystery,Tamatoa - So Shiny!,23,22,0.9565217391304348,0.36021567052885173
+Oswald - The Lucky Rabbit,Tamatoa - So Shiny!,90,86,0.9555555555555556,0.3592494869539725
+Scrooge McDuck - Resourceful Miser,Tamatoa - So Shiny!,90,86,0.9555555555555556,0.3592494869539725
+Belle - Apprentice Inventor,Tamatoa - So Shiny!,66,63,0.9545454545454546,0.3582393859438715
+Tamatoa - So Shiny!,Unconventional Tool,66,63,0.9545454545454546,0.3582393859438715
+Ruby Chromicon,Tamatoa - So Shiny!,20,19,0.95,0.35369393139841687
+Maurice's Workshop,Tamatoa - So Shiny!,99,94,0.9494949494949495,0.3531888808933664
+Pawpsicle,Tamatoa - So Shiny!,99,94,0.9494949494949495,0.3531888808933664
+Sapphire Coil,Tamatoa - So Shiny!,97,92,0.9484536082474226,0.35214753964583956
+Inkrunner,Tamatoa - So Shiny!,92,87,0.9456521739130435,0.3493461053114604
+Sisu - Daring Visitor,Tamatoa - So Shiny!,84,79,0.9404761904761905,0.3441701218746074
+Tamatoa - So Shiny!,Vitalisphere,80,75,0.9375,0.3411939313984169
+Ghostly Tale,Maui - Half-Shark,16,15,0.9375,0.3411939313984169
+Oswald - The Lucky Rabbit,Tamatoa - Happy as a Clam,16,15,0.9375,0.3411939313984169
+Sisu - Empowered Sibling,Tamatoa - So Shiny!,79,74,0.9367088607594937,0.3404027921579106
+Brawl,Ruby Chromicon,14,13,0.9285714285714286,0.3322653599698455
+Basil's Magnifying Glass,Lucky Dime,68,63,0.9264705882352942,0.3301645196337111
+Liquidator - Iced Over,Lucky Dime,13,12,0.9230769230769231,0.32677085447534004
+Lucky Dime,Ruby Chromicon,25,23,0.92,0.32369393139841696
+Maui - Hero to All,Tamatoa - So Shiny!,21,19,0.9047619047619048,0.3084558361603217
+Liquidator - Iced Over,Maui - Hero to All,10,9,0.9,0.30369393139841694
+Maui's Fish Hook,Pawpsicle,10,9,0.9,0.30369393139841694
+Lucky Dime,Might Solve a Mystery,27,24,0.8888888888888888,0.29258282028730576
+Cinderella - Dream Come True,"Next Stop, Olympus",9,8,0.8888888888888888,0.29258282028730576
+Eilonwy - Princess of Llyr,Mulan - Resourceful Recruit,9,8,0.8888888888888888,0.29258282028730576
+Inkrunner,Maui's Fish Hook,9,8,0.8888888888888888,0.29258282028730576
+Maui's Fish Hook,Sisu - Empowered Sibling,9,8,0.8888888888888888,0.29258282028730576
+Maurice's Workshop,The Sword of Shan-Yu,9,8,0.8888888888888888,0.29258282028730576
+Pawpsicle,The Sword of Shan-Yu,9,8,0.8888888888888888,0.29258282028730576
+Fishbone Quill,Tamatoa - Happy as a Clam,17,15,0.8823529411764706,0.2860468725748875
+Fishbone Quill,Liquidator - Iced Over,42,37,0.8809523809523809,0.28464631235079785
+Amethyst Chromicon,Madam Mim - Snake,8,7,0.875,0.2786939313984169
+Diablo - Devoted Herald,Diablo - Maleficent's Spy,8,7,0.875,0.2786939313984169
+Fishbone Quill,Under the Sea,8,7,0.875,0.2786939313984169
+Inkrunner,The Sword of Shan-Yu,8,7,0.875,0.2786939313984169
+John Smith - Skillful Explorer,Madam Mim - Snake,8,7,0.875,0.2786939313984169
+Maurice's Workshop,Under the Sea,8,7,0.875,0.2786939313984169
+Ratigan's Marvelous Trap,Sapphire Coil,8,7,0.875,0.2786939313984169
+Sail the Azurite Sea,Sisu - Empowered Sibling,8,7,0.875,0.2786939313984169
+Sapphire Coil,The Sword of Shan-Yu,8,7,0.875,0.2786939313984169
+Sisu - Daring Visitor,The Sword of Shan-Yu,8,7,0.875,0.2786939313984169
+Lucky Dime,Unconventional Tool,87,76,0.8735632183908046,0.27725714978922156
+Ruby Chromicon,Unconventional Tool,23,20,0.8695652173913043,0.27325914878972124
+Fishbone Quill,Lucky Dime,130,113,0.8692307692307693,0.27292470062918617
+Basil's Magnifying Glass,Sisu - Empowered Sibling,144,125,0.8680555555555556,0.2717494869539725
+Gold Coin,Lucky Dime,67,58,0.8656716417910447,0.26936557318946164
+Akood et Emuti,Diablo - Maleficent's Spy,7,6,0.8571428571428571,0.260836788541274
+Belle - Apprentice Inventor,The Sword of Shan-Yu,7,6,0.8571428571428571,0.260836788541274
+Diablo - Devoted Herald,Prince John - Greediest of All,7,6,0.8571428571428571,0.260836788541274
+Diablo - Devoted Herald,Sudden Chill,7,6,0.8571428571428571,0.260836788541274
+Fishbone Quill,Galactic Communicator,7,6,0.8571428571428571,0.260836788541274
+Fishbone Quill,Great Stone Dragon,7,6,0.8571428571428571,0.260836788541274
+Fishbone Quill,The Sword of Shan-Yu,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Inkrunner,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Maurice's Workshop,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Oswald - The Lucky Rabbit,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Sisu - Daring Visitor,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Sisu - Empowered Sibling,7,6,0.8571428571428571,0.260836788541274
+Great Stone Dragon,Vitalisphere,7,6,0.8571428571428571,0.260836788541274
+Maui's Fish Hook,Unconventional Tool,7,6,0.8571428571428571,0.260836788541274
+Oswald - The Lucky Rabbit,Under the Sea,7,6,0.8571428571428571,0.260836788541274
+Brawl,Lucky Dime,48,41,0.8541666666666666,0.25786059806508355
+Fishbone Quill,Ruby Chromicon,41,35,0.8536585365853658,0.25735246798378275
+Lucky Dime,Sisu - Daring Visitor,121,103,0.8512396694214877,0.25493360081990457
+Lucky Dime,Sisu - Empowered Sibling,114,97,0.8508771929824561,0.25457112438087304
+Ruby Chromicon,Sisu - Empowered Sibling,40,34,0.85,0.2536939313984169
+Lucky Dime,Oswald - The Lucky Rabbit,133,113,0.849624060150376,0.25331799154879286
+Lucky Dime,Scrooge McDuck - Resourceful Miser,126,107,0.8492063492063492,0.2529002806047661
+Lucky Dime,Maurice's Workshop,138,117,0.8478260869565217,0.25152001835493865
+Lucky Dime,Vitalisphere,105,89,0.8476190476190476,0.2513129790174645
+Gold Coin,Sisu - Empowered Sibling,111,94,0.8468468468468469,0.2505407782452638
+Lucky Dime,Pawpsicle,142,120,0.8450704225352113,0.24876435393362817
+Lucky Dime,Sapphire Coil,135,114,0.8444444444444444,0.24813837584286136
+Inkrunner,Lucky Dime,129,108,0.8372093023255814,0.24090323372399836
+Sisu - Empowered Sibling,Unconventional Tool,169,141,0.834319526627219,0.2380134580256359
+Oswald - The Lucky Rabbit,Ruby Chromicon,42,35,0.8333333333333334,0.2370272647317503
+Belle - Apprentice Inventor,Ruby Chromicon,30,25,0.8333333333333334,0.2370272647317503
+Lucky Dime,Maui - Hero to All,24,20,0.8333333333333334,0.2370272647317503
+Might Solve a Mystery,Unconventional Tool,24,20,0.8333333333333334,0.2370272647317503
+Daisy Duck - Donald's Date,Nani - Stage Manager,12,10,0.8333333333333334,0.2370272647317503
+Gold Coin,Ruby Chromicon,12,10,0.8333333333333334,0.2370272647317503
+Maui's Fish Hook,Oswald - The Lucky Rabbit,12,10,0.8333333333333334,0.2370272647317503
+Maui's Fish Hook,Sapphire Coil,12,10,0.8333333333333334,0.2370272647317503
+A Pirate's Life,Gramma Tala - Keeper of Ancient Stories,6,5,0.8333333333333334,0.2370272647317503
+A Pirate's Life,Pawpsicle,6,5,0.8333333333333334,0.2370272647317503
+A Pirate's Life,Vision of the Future,6,5,0.8333333333333334,0.2370272647317503
+Ariel - Spectacular Singer,Diablo - Devoted Herald,6,5,0.8333333333333334,0.2370272647317503
+Basil's Magnifying Glass,Great Stone Dragon,6,5,0.8333333333333334,0.2370272647317503
+Basil's Magnifying Glass,The Sword of Shan-Yu,6,5,0.8333333333333334,0.2370272647317503
+Cinderella - Dream Come True,What Else Can I Do?,6,5,0.8333333333333334,0.2370272647317503
+Diablo - Obedient Raven,Friends on the Other Side,6,5,0.8333333333333334,0.2370272647317503
+Fire the Cannons!,Friends on the Other Side,6,5,0.8333333333333334,0.2370272647317503
+Galactic Communicator,Sapphire Coil,6,5,0.8333333333333334,0.2370272647317503
+Ghostly Tale,Tipo - Growing Son,6,5,0.8333333333333334,0.2370272647317503
+Gold Coin,Great Stone Dragon,6,5,0.8333333333333334,0.2370272647317503
+Gramma Tala - Keeper of Ancient Stories,Maui - Half-Shark,6,5,0.8333333333333334,0.2370272647317503
+Great Stone Dragon,Pawpsicle,6,5,0.8333333333333334,0.2370272647317503
+Great Stone Dragon,Sapphire Coil,6,5,0.8333333333333334,0.2370272647317503
+Great Stone Dragon,Scrooge McDuck - Resourceful Miser,6,5,0.8333333333333334,0.2370272647317503
+Great Stone Dragon,Unconventional Tool,6,5,0.8333333333333334,0.2370272647317503
+Jebidiah Farnsworth - Cookie,Vision of the Future,6,5,0.8333333333333334,0.2370272647317503
+Lady - Miss Park Avenue,Ursula - Deceiver,6,5,0.8333333333333334,0.2370272647317503
+Maui - Half-Shark,Pawpsicle,6,5,0.8333333333333334,0.2370272647317503
+Nani - Stage Manager,Piglet - Pooh Pirate Captain,6,5,0.8333333333333334,0.2370272647317503
+Nani - Stage Manager,Webby Vanderquack - Mystery Enthusiast,6,5,0.8333333333333334,0.2370272647317503
+Fishbone Quill,Gold Coin,123,102,0.8292682926829268,0.2329622240813437
+Basil's Magnifying Glass,Fishbone Quill,151,125,0.8278145695364238,0.23150850093484077
+Ruby Chromicon,Sisu - Daring Visitor,46,38,0.8260869565217391,0.22978088792015605
+Belle - Apprentice Inventor,Lucky Dime,97,80,0.8247422680412371,0.228436199439654
+Inkrunner,Tamatoa - Happy as a Clam,17,14,0.8235294117647058,0.22722334316312276
+Maurice's Workshop,Tamatoa - Happy as a Clam,22,18,0.8181818181818182,0.22187574958023515
+Scrooge McDuck - Resourceful Miser,Tamatoa - Happy as a Clam,22,18,0.8181818181818182,0.22187574958023515
+Maui - Half-Shark,Someone Will Lose His Head,11,9,0.8181818181818182,0.22187574958023515
+"Next Stop, Olympus",Someone Will Lose His Head,11,9,0.8181818181818182,0.22187574958023515
+Sail the Azurite Sea,Someone Will Lose His Head,11,9,0.8181818181818182,0.22187574958023515
+Maurice's Workshop,Ruby Chromicon,49,40,0.8163265306122449,0.22002046201066183
+Might Solve a Mystery,Ruby Chromicon,21,17,0.8095238095238095,0.21321774092222645
+Oswald - The Lucky Rabbit,Sisu - Empowered Sibling,256,207,0.80859375,0.21228768139841692
+Ruby Chromicon,Scrooge McDuck - Resourceful Miser,47,38,0.8085106382978723,0.2122045696962892
+Basil's Magnifying Glass,Might Solve a Mystery,26,21,0.8076923076923077,0.21138623909072463
+Basil's Magnifying Glass,Gold Coin,77,62,0.8051948051948052,0.20888873659322216
+Pawpsicle,Ruby Chromicon,50,40,0.8,0.20369393139841696
+Might Solve a Mystery,Oswald - The Lucky Rabbit,45,36,0.8,0.20369393139841696
+Basil's Magnifying Glass,Maui - Hero to All,35,28,0.8,0.20369393139841696
+Sapphire Coil,Tamatoa - Happy as a Clam,20,16,0.8,0.20369393139841696
+Cinderella - Dream Come True,Maui - Half-Shark,10,8,0.8,0.20369393139841696
+Develop Your Brain,Someone Will Lose His Head,10,8,0.8,0.20369393139841696
+Fishbone Quill,Maui's Fish Hook,10,8,0.8,0.20369393139841696
+Lucky Dime,Tamatoa - Happy as a Clam,10,8,0.8,0.20369393139841696
+Mulan - Resourceful Recruit,Nani - Stage Manager,10,8,0.8,0.20369393139841696
+Mulan - Resourceful Recruit,Ursula - Deceiver,10,8,0.8,0.20369393139841696
+A Pirate's Life,Develop Your Brain,5,4,0.8,0.20369393139841696
+A Pirate's Life,How Far I'll Go,5,4,0.8,0.20369393139841696
+A Pirate's Life,Sail the Azurite Sea,5,4,0.8,0.20369393139841696
+Akood et Emuti,Lucifer - Cunning Cat,5,4,0.8,0.20369393139841696
+Amethyst Chromicon,Keep the Ancient Ways,5,4,0.8,0.20369393139841696
+Ariel - Spectacular Singer,Diablo - Maleficent's Spy,5,4,0.8,0.20369393139841696
+Basil's Magnifying Glass,Tamatoa - Happy as a Clam,5,4,0.8,0.20369393139841696
+Belle - Apprentice Inventor,Great Stone Dragon,5,4,0.8,0.20369393139841696
+Belle - Apprentice Inventor,Ratigan's Marvelous Trap,5,4,0.8,0.20369393139841696
+Brawl,Maui's Fish Hook,5,4,0.8,0.20369393139841696
+Cinderella - Dream Come True,Scuttle - Birdbrained,5,4,0.8,0.20369393139841696
+Cinderella - Dream Come True,Someone Will Lose His Head,5,4,0.8,0.20369393139841696
+Dig a Little Deeper,Tipo - Growing Son,5,4,0.8,0.20369393139841696
+Eilonwy - Princess of Llyr,Webby Vanderquack - Junior Prospector,5,4,0.8,0.20369393139841696
+Fire the Cannons!,Keep the Ancient Ways,5,4,0.8,0.20369393139841696
+Friends on the Other Side,John Smith - Skillful Explorer,5,4,0.8,0.20369393139841696
+Friends on the Other Side,Pete - Games Referee,5,4,0.8,0.20369393139841696
+Gadget's Goggles,Tamatoa - So Shiny!,5,4,0.8,0.20369393139841696
+Gramma Tala - Keeper of Ancient Stories,McDuck Manor - Scrooge's Mansion,5,4,0.8,0.20369393139841696
+Great Stone Dragon,Lucky Dime,5,4,0.8,0.20369393139841696
+How Far I'll Go,McDuck Manor - Scrooge's Mansion,5,4,0.8,0.20369393139841696
+Lucifer - Cunning Cat,Mowgli - Man Cub,5,4,0.8,0.20369393139841696
+Lucifer - Cunning Cat,We Don't Talk About Bruno,5,4,0.8,0.20369393139841696
+McDuck Manor - Scrooge's Mansion,Pawpsicle,5,4,0.8,0.20369393139841696
+McDuck Manor - Scrooge's Mansion,Vision of the Future,5,4,0.8,0.20369393139841696
+Piglet - Pooh Pirate Captain,Webby Vanderquack - Junior Prospector,5,4,0.8,0.20369393139841696
+Fishbone Quill,Might Solve a Mystery,44,35,0.7954545454545454,0.19914847685296233
+Inkrunner,Ruby Chromicon,44,35,0.7954545454545454,0.19914847685296233
+Ruby Chromicon,Vitalisphere,44,35,0.7954545454545454,0.19914847685296233
+Belle - Apprentice Inventor,Sisu - Empowered Sibling,212,168,0.7924528301886793,0.1961467615870962
+Ruby Chromicon,Sapphire Coil,48,38,0.7916666666666666,0.19536059806508355
+Fishbone Quill,Vitalisphere,229,181,0.7903930131004366,0.19408694449885355
+Liquidator - Iced Over,Sisu - Empowered Sibling,62,49,0.7903225806451613,0.19401651204357817
+Fishbone Quill,Unconventional Tool,189,149,0.7883597883597884,0.1920537197582053
+Brom Bones - Burly Bully,Fishbone Quill,14,11,0.7857142857142857,0.18940821711270261
+Fishbone Quill,Sisu - Empowered Sibling,242,190,0.7851239669421488,0.18881789834056573
+Sisu - Empowered Sibling,Vitalisphere,214,168,0.7850467289719626,0.1887406603703795
+Maurice's Workshop,Sisu - Empowered Sibling,290,227,0.7827586206896552,0.1864525520880721
+Fishbone Quill,Oswald - The Lucky Rabbit,300,234,0.78,0.18369393139841694
+Develop Your Brain,Sisu - Empowered Sibling,9,7,0.7777777777777778,0.1814717091761947
+Diablo - Obedient Raven,Madam Mim - Snake,9,7,0.7777777777777778,0.1814717091761947
+Fishbone Quill,Ratigan's Marvelous Trap,9,7,0.7777777777777778,0.1814717091761947
+Gold Coin,Might Solve a Mystery,9,7,0.7777777777777778,0.1814717091761947
+Maui's Fish Hook,Sisu - Daring Visitor,9,7,0.7777777777777778,0.1814717091761947
+Might Solve a Mystery,Tamatoa - Happy as a Clam,9,7,0.7777777777777778,0.1814717091761947
+"Next Stop, Olympus",Tipo - Growing Son,9,7,0.7777777777777778,0.1814717091761947
+Sapphire Coil,Under the Sea,9,7,0.7777777777777778,0.1814717091761947
+Someone Will Lose His Head,Vision of the Future,9,7,0.7777777777777778,0.1814717091761947
+Belle - Apprentice Inventor,Fishbone Quill,205,159,0.775609756097561,0.17930368749597791
+Pawpsicle,Sisu - Empowered Sibling,305,236,0.7737704918032787,0.17746442320169564
+Basil's Magnifying Glass,Oswald - The Lucky Rabbit,171,132,0.7719298245614035,0.17562375595982038
+Might Solve a Mystery,Scrooge McDuck - Resourceful Miser,57,44,0.7719298245614035,0.17562375595982038
+Inkrunner,Sisu - Empowered Sibling,263,203,0.7718631178707225,0.1755570492691394
+Belle - Apprentice Inventor,Might Solve a Mystery,35,27,0.7714285714285715,0.17512250282698838
+Fishbone Quill,Maurice's Workshop,319,246,0.7711598746081505,0.1748538060065674
+Fishbone Quill,Inkrunner,286,220,0.7692307692307693,0.1729247006291862
+Belle - Apprentice Inventor,Tamatoa - Happy as a Clam,13,10,0.7692307692307693,0.1729247006291862
+Maui - Hero to All,Might Solve a Mystery,13,10,0.7692307692307693,0.1729247006291862
+Maui's Fish Hook,Scrooge McDuck - Resourceful Miser,13,10,0.7692307692307693,0.1729247006291862
+Basil's Magnifying Glass,Sapphire Coil,186,143,0.7688172043010753,0.17251113569949217
+Scrooge McDuck - Resourceful Miser,Sisu - Empowered Sibling,267,205,0.7677902621722846,0.17148419357070155
+Fishbone Quill,Scrooge McDuck - Resourceful Miser,283,217,0.7667844522968198,0.1704783836952367
+Sisu - Daring Visitor,Sisu - Empowered Sibling,263,201,0.7642585551330798,0.16795248653149675
+Fishbone Quill,Pawpsicle,326,248,0.7607361963190185,0.16443012771743537
+Maui - Half-Shark,"Next Stop, Olympus",25,19,0.76,0.16369393139841693
+Pawpsicle,Tamatoa - Happy as a Clam,25,19,0.76,0.16369393139841693
+Basil's Magnifying Glass,Vitalisphere,145,110,0.7586206896551724,0.1623146210535893
+Maurice's Workshop,Might Solve a Mystery,58,44,0.7586206896551724,0.1623146210535893
+Maui - Half-Shark,Vision of the Future,29,22,0.7586206896551724,0.1623146210535893
+Sapphire Coil,Sisu - Empowered Sibling,304,230,0.756578947368421,0.16027287876683793
+Might Solve a Mystery,Vitalisphere,49,37,0.7551020408163265,0.1587959722147434
+Scrooge McDuck - Resourceful Miser,Unconventional Tool,204,154,0.7549019607843137,0.15859589218273062
+Sapphire Coil,Unconventional Tool,224,169,0.7544642857142857,0.15815821711270261
+Basil's Magnifying Glass,Scrooge McDuck - Resourceful Miser,178,134,0.7528089887640449,0.1565029201624618
+Brawl,Sisu - Empowered Sibling,101,76,0.7524752475247525,0.1561691789231694
+Fishbone Quill,Sisu - Daring Visitor,246,185,0.7520325203252033,0.1557264517236202
+Gold Coin,Oswald - The Lucky Rabbit,149,112,0.7516778523489933,0.15537178374741023
+Fishbone Quill,Sapphire Coil,304,228,0.75,0.15369393139841692
+Basil's Magnifying Glass,Unconventional Tool,124,93,0.75,0.15369393139841692
+Might Solve a Mystery,Sisu - Empowered Sibling,52,39,0.75,0.15369393139841692
+Basil's Magnifying Glass,Ruby Chromicon,36,27,0.75,0.15369393139841692
+Sisu - Empowered Sibling,Tamatoa - Happy as a Clam,16,12,0.75,0.15369393139841692
+Diablo - Obedient Raven,Fire the Cannons!,12,9,0.75,0.15369393139841692
+Sail the Azurite Sea,Tipo - Growing Son,12,9,0.75,0.15369393139841692
+Christopher Robin - Joining the Fun,Diablo - Obedient Raven,8,6,0.75,0.15369393139841692
+Diablo - Devoted Herald,Mowgli - Man Cub,8,6,0.75,0.15369393139841692
+Diablo - Obedient Raven,Pete - Games Referee,8,6,0.75,0.15369393139841692
+Doc - Bold Knight,John Smith - Skillful Explorer,8,6,0.75,0.15369393139841692
+Eilonwy - Princess of Llyr,Nani - Stage Manager,8,6,0.75,0.15369393139841692
+Galactic Communicator,Maurice's Workshop,8,6,0.75,0.15369393139841692
+Galactic Communicator,Pawpsicle,8,6,0.75,0.15369393139841692
+Galactic Communicator,Scrooge McDuck - Resourceful Miser,8,6,0.75,0.15369393139841692
+How Far I'll Go,Maui - Half-Shark,8,6,0.75,0.15369393139841692
+John Smith - Skillful Explorer,Pete - Games Referee,8,6,0.75,0.15369393139841692
+Lady - Miss Park Avenue,Nani - Stage Manager,8,6,0.75,0.15369393139841692
+Sisu - Empowered Sibling,Vision of the Future,8,6,0.75,0.15369393139841692
+Someone Will Lose His Head,What Else Can I Do?,8,6,0.75,0.15369393139841692
+Tipo - Growing Son,What Else Can I Do?,8,6,0.75,0.15369393139841692
+Basil's Magnifying Glass,Maurice's Workshop,195,146,0.7487179487179487,0.15241188011636564
+Basil's Magnifying Glass,Inkrunner,179,134,0.7486033519553073,0.15229728335372417
+Gold Coin,Unconventional Tool,103,77,0.7475728155339806,0.1512667469323975
+Maui - Hero to All,Sisu - Empowered Sibling,55,41,0.7454545454545455,0.1491484768529624
+Might Solve a Mystery,Sisu - Daring Visitor,55,41,0.7454545454545455,0.1491484768529624
+Unconventional Tool,Vitalisphere,171,127,0.7426900584795322,0.1463839898779491
+Might Solve a Mystery,Pawpsicle,58,43,0.7413793103448276,0.14507324174324454
+Basil's Magnifying Glass,Belle - Apprentice Inventor,145,107,0.7379310344827587,0.14162496588117557
+Maui - Half-Shark,Scuttle - Birdbrained,19,14,0.7368421052631579,0.14053603666157477
+"Next Stop, Olympus",Scuttle - Birdbrained,19,14,0.7368421052631579,0.14053603666157477
+Inkrunner,Might Solve a Mystery,53,39,0.7358490566037735,0.13954298800219045
+Oswald - The Lucky Rabbit,Unconventional Tool,215,158,0.7348837209302326,0.1385776523286495
+Inkrunner,Unconventional Tool,211,155,0.7345971563981043,0.13829108779652122
+Sisu - Daring Visitor,Tamatoa - Happy as a Clam,15,11,0.7333333333333333,0.1370272647317502
+Basil's Magnifying Glass,Pawpsicle,206,151,0.7330097087378641,0.136703640136281
+Pawpsicle,Unconventional Tool,235,172,0.7319148936170212,0.13560882501543814
+Might Solve a Mystery,Sapphire Coil,59,43,0.7288135593220338,0.13250749072045076
+Oswald - The Lucky Rabbit,Scrooge McDuck - Resourceful Miser,330,240,0.7272727272727273,0.1309666586711442
+Gold Coin,Inkrunner,143,104,0.7272727272727273,0.1309666586711442
+Gold Coin,Sisu - Daring Visitor,132,96,0.7272727272727273,0.1309666586711442
+Brawl,Might Solve a Mystery,22,16,0.7272727272727273,0.1309666586711442
+"Next Stop, Olympus",Vision of the Future,22,16,0.7272727272727273,0.1309666586711442
+Fishbone Quill,Hidden Inkcaster,11,8,0.7272727272727273,0.1309666586711442
+Hidden Inkcaster,Scrooge McDuck - Resourceful Miser,11,8,0.7272727272727273,0.1309666586711442
+Maui's Fish Hook,Maurice's Workshop,11,8,0.7272727272727273,0.1309666586711442
+Mulan - Resourceful Recruit,Webby Vanderquack - Mystery Enthusiast,11,8,0.7272727272727273,0.1309666586711442
+Inkrunner,Oswald - The Lucky Rabbit,326,237,0.7269938650306749,0.13068779642909178
+Basil's Magnifying Glass,Brawl,76,55,0.7236842105263158,0.12737814192473274
+Gold Coin,Scrooge McDuck - Resourceful Miser,148,107,0.722972972972973,0.12666690437138994
+Maurice's Workshop,Oswald - The Lucky Rabbit,379,274,0.7229551451187335,0.1266490765171504
+Belle - Apprentice Inventor,Gold Coin,118,85,0.7203389830508474,0.12403291444926434
+"Next Stop, Olympus",Sail the Azurite Sea,25,18,0.72,0.12369393139841689
+Oswald - The Lucky Rabbit,Pawpsicle,385,277,0.7194805194805195,0.12317445087893641
+Liquidator - Iced Over,Oswald - The Lucky Rabbit,64,46,0.71875,0.12244393139841692
+Maui - Half-Shark,Sail the Azurite Sea,32,23,0.71875,0.12244393139841692
+Gold Coin,Maurice's Workshop,167,120,0.718562874251497,0.12225680564991392
+Maurice's Workshop,Unconventional Tool,245,176,0.7183673469387755,0.12206127833719238
+Belle - Apprentice Inventor,Oswald - The Lucky Rabbit,259,186,0.7181467181467182,0.12184064954513507
+Belle - Apprentice Inventor,Scrooge McDuck - Resourceful Miser,255,183,0.7176470588235294,0.12134099022194633
+Oswald - The Lucky Rabbit,Sapphire Coil,354,254,0.7175141242937854,0.12120805569220228
+Sisu - Daring Visitor,Unconventional Tool,198,142,0.7171717171717171,0.12086564857013404
+Gold Coin,Sapphire Coil,159,114,0.7169811320754716,0.12067506347388857
+Gold Coin,Vitalisphere,127,91,0.7165354330708661,0.120229364469283
+Gold Coin,Pawpsicle,165,118,0.7151515151515152,0.11884544654993212
+Brom Bones - Burly Bully,Unconventional Tool,14,10,0.7142857142857143,0.11797964568413122
+Cogsworth - Grandfather Clock,Vision of the Future,14,10,0.7142857142857143,0.11797964568413122
+Ariel - Spectacular Singer,The Muses - Proclaimers of Heroes,7,5,0.7142857142857143,0.11797964568413122
+Basil's Magnifying Glass,Maui's Fish Hook,7,5,0.7142857142857143,0.11797964568413122
+Be Prepared,Sisu - Empowered Sibling,7,5,0.7142857142857143,0.11797964568413122
+Diablo - Maleficent's Spy,Mowgli - Man Cub,7,5,0.7142857142857143,0.11797964568413122
+Diablo - Obedient Raven,Keep the Ancient Ways,7,5,0.7142857142857143,0.11797964568413122
+Eilonwy - Princess of Llyr,Tramp - Enterprising Dog,7,5,0.7142857142857143,0.11797964568413122
+Eilonwy - Princess of Llyr,Ursula - Deceiver,7,5,0.7142857142857143,0.11797964568413122
+Fishbone Quill,Kit Cloudkicker - Tough Guy,7,5,0.7142857142857143,0.11797964568413122
+Friends on the Other Side,Giant Cobra - Ghostly Serpent,7,5,0.7142857142857143,0.11797964568413122
+Galactic Communicator,Hidden Inkcaster,7,5,0.7142857142857143,0.11797964568413122
+Galactic Communicator,Oswald - The Lucky Rabbit,7,5,0.7142857142857143,0.11797964568413122
+Galactic Communicator,Ratigan's Marvelous Trap,7,5,0.7142857142857143,0.11797964568413122
+Gathering Knowledge and Wisdom,Madam Mim - Snake,7,5,0.7142857142857143,0.11797964568413122
+Gramma Tala - Keeper of Ancient Stories,Sail the Azurite Sea,7,5,0.7142857142857143,0.11797964568413122
+Hide Away,Lucky Dime,7,5,0.7142857142857143,0.11797964568413122
+Incrediboy - Buddy Pine,John Smith - Skillful Explorer,7,5,0.7142857142857143,0.11797964568413122
+Inkrunner,Under the Sea,7,5,0.7142857142857143,0.11797964568413122
+Kit Cloudkicker - Tough Guy,Sapphire Coil,7,5,0.7142857142857143,0.11797964568413122
+Liquidator - Iced Over,Ruby Chromicon,7,5,0.7142857142857143,0.11797964568413122
+Madam Mim - Snake,Pete - Games Referee,7,5,0.7142857142857143,0.11797964568413122
+Merlin - Goat,Pete - Games Referee,7,5,0.7142857142857143,0.11797964568413122
+Piglet - Pooh Pirate Captain,Ursula - Deceiver,7,5,0.7142857142857143,0.11797964568413122
+Scuttle - Birdbrained,Someone Will Lose His Head,7,5,0.7142857142857143,0.11797964568413122
+Sudden Chill,The Muses - Proclaimers of Heroes,7,5,0.7142857142857143,0.11797964568413122
+Basil's Magnifying Glass,Sisu - Daring Visitor,171,122,0.7134502923976608,0.1171442237960777
+Liquidator - Iced Over,Scrooge McDuck - Resourceful Miser,66,47,0.7121212121212122,0.11581514351962907
+Oswald - The Lucky Rabbit,Vitalisphere,265,188,0.7094339622641509,0.11312789366256781
+Belle - Apprentice Inventor,Liquidator - Iced Over,55,39,0.7090909090909091,0.11278484048932602
+Maui - Hero to All,Sapphire Coil,65,46,0.7076923076923077,0.11138623909072465
+Maurice's Workshop,Scrooge McDuck - Resourceful Miser,376,266,0.7074468085106383,0.11114073990905526
+Brawl,Fishbone Quill,102,72,0.7058823529411765,0.10957628433959343
+Liquidator - Iced Over,Unconventional Tool,34,24,0.7058823529411765,0.10957628433959343
+Sail the Azurite Sea,What Else Can I Do?,17,12,0.7058823529411765,0.10957628433959343
+Brawl,Scrooge McDuck - Resourceful Miser,120,84,0.7,0.10369393139841687
+Fishbone Quill,Maui - Hero to All,50,35,0.7,0.10369393139841687
+Basil's Magnifying Glass,Liquidator - Iced Over,30,21,0.7,0.10369393139841687
+Develop Your Brain,Maui - Half-Shark,30,21,0.7,0.10369393139841687
+Amethyst Chromicon,Doc - Bold Knight,10,7,0.7,0.10369393139841687
+Cinderella - Dream Come True,Develop Your Brain,10,7,0.7,0.10369393139841687
+Eilonwy - Princess of Llyr,Webby Vanderquack - Mystery Enthusiast,10,7,0.7,0.10369393139841687
+Giant Cobra - Ghostly Serpent,Madam Mim - Snake,10,7,0.7,0.10369393139841687
+Giant Cobra - Ghostly Serpent,Pete - Games Referee,10,7,0.7,0.10369393139841687
+Hidden Inkcaster,Ratigan's Marvelous Trap,10,7,0.7,0.10369393139841687
+Hidden Inkcaster,Under the Sea,10,7,0.7,0.10369393139841687
+Nani - Stage Manager,Snow Fort,10,7,0.7,0.10369393139841687
+Nani - Stage Manager,Ursula - Deceiver,10,7,0.7,0.10369393139841687
+Pawpsicle,Ratigan's Marvelous Trap,10,7,0.7,0.10369393139841687
+Pawpsicle,Sail the Azurite Sea,10,7,0.7,0.10369393139841687
+Pawpsicle,Under the Sea,10,7,0.7,0.10369393139841687
+Ratigan's Marvelous Trap,Scrooge McDuck - Resourceful Miser,10,7,0.7,0.10369393139841687
+Ursula - Deceiver,Webby Vanderquack - Mystery Enthusiast,10,7,0.7,0.10369393139841687
+Oswald - The Lucky Rabbit,Sisu - Daring Visitor,305,213,0.6983606557377049,0.10205458713612181
+Sail the Azurite Sea,Vision of the Future,33,23,0.696969696969697,0.10066362836811393
+Inkrunner,Scrooge McDuck - Resourceful Miser,346,241,0.6965317919075145,0.10022572330593138
+Belle - Apprentice Inventor,Maui - Hero to All,56,39,0.6964285714285714,0.10012250282698831
+Gold Coin,Maui - Hero to All,23,16,0.6956521739130435,0.09934610531146038
+Belle - Apprentice Inventor,Sapphire Coil,279,194,0.6953405017921147,0.09903443319053162
+Scrooge McDuck - Resourceful Miser,Vitalisphere,285,198,0.6947368421052632,0.09843077350368012
+Liquidator - Iced Over,Maurice's Workshop,72,50,0.6944444444444444,0.09813837584286134
+Maui - Hero to All,Pawpsicle,72,50,0.6944444444444444,0.09813837584286134
+Inkrunner,Maurice's Workshop,373,259,0.6943699731903485,0.09806390458876546
+Belle - Apprentice Inventor,Maurice's Workshop,297,206,0.6936026936026936,0.09729662500111047
+Diablo - Obedient Raven,Mr. Smee - Bumbling Mate,13,9,0.6923076923076923,0.09600162370610921
+Doc - Bold Knight,Fire the Cannons!,13,9,0.6923076923076923,0.09600162370610921
+Tipo - Growing Son,Vision of the Future,13,9,0.6923076923076923,0.09600162370610921
+Belle - Apprentice Inventor,Vitalisphere,211,146,0.6919431279620853,0.09563705936050226
+Sapphire Coil,Scrooge McDuck - Resourceful Miser,370,256,0.6918918918918919,0.09558582329030885
+Pawpsicle,Scrooge McDuck - Resourceful Miser,392,271,0.6913265306122449,0.09502046201066183
+Inkrunner,Vitalisphere,284,196,0.6901408450704225,0.09383477646883942
+Liquidator - Iced Over,Sisu - Daring Visitor,74,51,0.6891891891891891,0.09288312058760606
+Maui - Half-Shark,Tipo - Growing Son,16,11,0.6875,0.09119393139841692
+"Next Stop, Olympus",What Else Can I Do?,16,11,0.6875,0.09119393139841692
+Maurice's Workshop,Vitalisphere,307,211,0.6872964169381107,0.09099034833652764
+Maurice's Workshop,Pawpsicle,442,303,0.6855203619909502,0.08921429338936715
+Maurice's Workshop,Sapphire Coil,410,281,0.6853658536585366,0.08905978505695356
+Liquidator - Iced Over,Sapphire Coil,76,52,0.6842105263157895,0.08790445771420641
+Maui - Half-Shark,What Else Can I Do?,19,13,0.6842105263157895,0.08790445771420641
+Sail the Azurite Sea,Scuttle - Birdbrained,19,13,0.6842105263157895,0.08790445771420641
+Scuttle - Birdbrained,Vision of the Future,19,13,0.6842105263157895,0.08790445771420641
+Sapphire Coil,Vitalisphere,294,201,0.6836734693877551,0.087367400786172
+Belle - Apprentice Inventor,Unconventional Tool,199,136,0.6834170854271356,0.08711101682555256
+Maui - Hero to All,Oswald - The Lucky Rabbit,60,41,0.6833333333333333,0.08702726473175026
+Scrooge McDuck - Resourceful Miser,Sisu - Daring Visitor,315,215,0.6825396825396826,0.08623361393809947
+Inkrunner,Maui - Hero to All,66,45,0.6818181818181818,0.08551211321659868
+Develop Your Brain,"Next Stop, Olympus",22,15,0.6818181818181818,0.08551211321659868
+Belle - Apprentice Inventor,Inkrunner,270,184,0.6814814814814815,0.08517541287989838
+Brawl,Maui - Hero to All,28,19,0.6785714285714286,0.08226535996984552
+Liquidator - Iced Over,Vitalisphere,59,40,0.6779661016949152,0.08166003309333214
+Inkrunner,Sapphire Coil,360,244,0.6777777777777778,0.08147170917619473
+Maui - Hero to All,Sisu - Daring Visitor,62,42,0.6774193548387096,0.08111328623712655
+Pawpsicle,Vitalisphere,314,212,0.6751592356687898,0.07885316706720669
+Pawpsicle,Sapphire Coil,423,285,0.6737588652482269,0.07745279664664384
+Liquidator - Iced Over,Pawpsicle,76,51,0.6710526315789473,0.07474656297736426
+Belle - Apprentice Inventor,Sisu - Daring Visitor,249,167,0.6706827309236948,0.07437666232211171
+Maurice's Workshop,Sisu - Daring Visitor,351,235,0.6695156695156695,0.07320960091408646
+Sisu - Daring Visitor,Vitalisphere,259,173,0.667953667953668,0.07164759935208487
+Inkrunner,Pawpsicle,394,263,0.6675126903553299,0.07120662175374681
+Belle - Apprentice Inventor,Pawpsicle,309,206,0.6666666666666666,0.07036059806508355
+Gold Coin,Liquidator - Iced Over,27,18,0.6666666666666666,0.07036059806508355
+Develop Your Brain,What Else Can I Do?,21,14,0.6666666666666666,0.07036059806508355
+Brom Bones - Burly Bully,Oswald - The Lucky Rabbit,18,12,0.6666666666666666,0.07036059806508355
+Fire the Cannons!,Giant Cobra - Ghostly Serpent,15,10,0.6666666666666666,0.07036059806508355
+Amethyst Chromicon,Diablo - Obedient Raven,12,8,0.6666666666666666,0.07036059806508355
+Amethyst Chromicon,Fire the Cannons!,12,8,0.6666666666666666,0.07036059806508355
+Cinderella - Dream Come True,Sail the Azurite Sea,12,8,0.6666666666666666,0.07036059806508355
+Diablo - Obedient Raven,Doc - Bold Knight,12,8,0.6666666666666666,0.07036059806508355
+Fire the Cannons!,Pete - Games Referee,12,8,0.6666666666666666,0.07036059806508355
+Gadget's Goggles,Unconventional Tool,12,8,0.6666666666666666,0.07036059806508355
+Hidden Inkcaster,Sapphire Coil,12,8,0.6666666666666666,0.07036059806508355
+Snow Fort,Ursula - Deceiver,12,8,0.6666666666666666,0.07036059806508355
+Akood et Emuti,Diablo - Devoted Herald,9,6,0.6666666666666666,0.07036059806508355
+Akood et Emuti,Prince John - Greediest of All,9,6,0.6666666666666666,0.07036059806508355
+Akood et Emuti,Sudden Chill,9,6,0.6666666666666666,0.07036059806508355
+Amethyst Chromicon,Pete - Games Referee,9,6,0.6666666666666666,0.07036059806508355
+Ariel - Spectacular Singer,Sudden Chill,9,6,0.6666666666666666,0.07036059806508355
+Cinderella - Dream Come True,Vision of the Future,9,6,0.6666666666666666,0.07036059806508355
+Daisy Duck - Donald's Date,Eilonwy - Princess of Llyr,9,6,0.6666666666666666,0.07036059806508355
+Diablo - Obedient Raven,Will o' the Wisp - Forest Spirit,9,6,0.6666666666666666,0.07036059806508355
+Fire the Cannons!,John Smith - Skillful Explorer,9,6,0.6666666666666666,0.07036059806508355
+Fire the Cannons!,Madam Mim - Snake,9,6,0.6666666666666666,0.07036059806508355
+Fire the Cannons!,Merlin - Goat,9,6,0.6666666666666666,0.07036059806508355
+Gramma Tala - Keeper of Ancient Stories,Pawpsicle,9,6,0.6666666666666666,0.07036059806508355
+Madam Mim - Snake,Mr. Smee - Bumbling Mate,9,6,0.6666666666666666,0.07036059806508355
+Piglet - Pooh Pirate Captain,Webby Vanderquack - Mystery Enthusiast,9,6,0.6666666666666666,0.07036059806508355
+Tramp - Enterprising Dog,Ursula - Deceiver,9,6,0.6666666666666666,0.07036059806508355
+Ursula - Deceiver,Webby Vanderquack - Junior Prospector,9,6,0.6666666666666666,0.07036059806508355
+Akood et Emuti,The Bare Necessities,6,4,0.6666666666666666,0.07036059806508355
+Ariel - Spectacular Singer,We Don't Talk About Bruno,6,4,0.6666666666666666,0.07036059806508355
+Belle - Apprentice Inventor,The Sword Released,6,4,0.6666666666666666,0.07036059806508355
+Christopher Robin - Joining the Fun,Fire the Cannons!,6,4,0.6666666666666666,0.07036059806508355
+Christopher Robin - Joining the Fun,Madam Mim - Snake,6,4,0.6666666666666666,0.07036059806508355
+Daisy Duck - Donald's Date,Grandmother Willow - Ancient Advisor,6,4,0.6666666666666666,0.07036059806508355
+Daisy Duck - Donald's Date,Tramp - Street-Smart Dog,6,4,0.6666666666666666,0.07036059806508355
+Develop Your Brain,Jebidiah Farnsworth - Cookie,6,4,0.6666666666666666,0.07036059806508355
+Diablo - Devoted Herald,Strike a Good Match,6,4,0.6666666666666666,0.07036059806508355
+Diablo - Devoted Herald,The Muses - Proclaimers of Heroes,6,4,0.6666666666666666,0.07036059806508355
+Diablo - Obedient Raven,Incrediboy - Buddy Pine,6,4,0.6666666666666666,0.07036059806508355
+Dig a Little Deeper,Someone Will Lose His Head,6,4,0.6666666666666666,0.07036059806508355
+Friends on the Other Side,Incrediboy - Buddy Pine,6,4,0.6666666666666666,0.07036059806508355
+Galactic Communicator,Inkrunner,6,4,0.6666666666666666,0.07036059806508355
+Gramma Tala - Keeper of Ancient Stories,Sisu - Empowered Sibling,6,4,0.6666666666666666,0.07036059806508355
+Grandmother Willow - Ancient Advisor,Tramp - Street-Smart Dog,6,4,0.6666666666666666,0.07036059806508355
+Incrediboy - Buddy Pine,Madam Mim - Snake,6,4,0.6666666666666666,0.07036059806508355
+Inkrunner,The Sword Released,6,4,0.6666666666666666,0.07036059806508355
+Jebidiah Farnsworth - Cookie,Sail the Azurite Sea,6,4,0.6666666666666666,0.07036059806508355
+Kida - Creative Thinker,Scuttle - Birdbrained,6,4,0.6666666666666666,0.07036059806508355
+Kit Cloudkicker - Tough Guy,Under the Sea,6,4,0.6666666666666666,0.07036059806508355
+Lady - Miss Park Avenue,Snow Fort,6,4,0.6666666666666666,0.07036059806508355
+Madam Mim - Snake,Merlin - Goat,6,4,0.6666666666666666,0.07036059806508355
+Mulan - Resourceful Recruit,Piglet - Pooh Pirate Captain,6,4,0.6666666666666666,0.07036059806508355
+Nani - Stage Manager,Webby Vanderquack - Junior Prospector,6,4,0.6666666666666666,0.07036059806508355
+Prince John - Greediest of All,The Muses - Proclaimers of Heroes,6,4,0.6666666666666666,0.07036059806508355
+Rapunzel - Gifted with Healing,Ursula - Deceiver,6,4,0.6666666666666666,0.07036059806508355
+Scrooge McDuck - Resourceful Miser,The Sword Released,6,4,0.6666666666666666,0.07036059806508355
+Sisu - Empowered Sibling,The Sword Released,6,4,0.6666666666666666,0.07036059806508355
+Strike a Good Match,Sudden Chill,6,4,0.6666666666666666,0.07036059806508355
+Inkrunner,Sisu - Daring Visitor,313,208,0.6645367412140575,0.0682306726124744
+Maui - Hero to All,Maurice's Workshop,68,45,0.6617647058823529,0.06545863728076984
+Maui - Hero to All,Scrooge McDuck - Resourceful Miser,62,41,0.6612903225806451,0.06498425397906205
+Maui - Hero to All,Unconventional Tool,43,28,0.6511627906976745,0.05485672209609138
+Brom Bones - Burly Bully,Sisu - Empowered Sibling,20,13,0.65,0.05369393139841694
+Pawpsicle,Sisu - Daring Visitor,368,239,0.6494565217391305,0.053150453137547404
+Sapphire Coil,Sisu - Daring Visitor,364,236,0.6483516483516484,0.052045579750065296
+Develop Your Brain,Vision of the Future,34,22,0.6470588235294118,0.050752754927828714
+Fire the Cannons!,Mr. Smee - Bumbling Mate,17,11,0.6470588235294118,0.050752754927828714
+Vision of the Future,What Else Can I Do?,17,11,0.6470588235294118,0.050752754927828714
+Cogsworth - Grandfather Clock,Sail the Azurite Sea,14,9,0.6428571428571429,0.04655107425555982
+Daisy Duck - Donald's Date,Mulan - Resourceful Recruit,14,9,0.6428571428571429,0.04655107425555982
+Brawl,Sisu - Daring Visitor,132,84,0.6363636363636364,0.04005756776205327
+Brawl,Vitalisphere,99,63,0.6363636363636364,0.04005756776205327
+Amethyst Chromicon,John Smith - Skillful Explorer,11,7,0.6363636363636364,0.04005756776205327
+Doc - Bold Knight,Gathering Knowledge and Wisdom,11,7,0.6363636363636364,0.04005756776205327
+Doc - Bold Knight,Madam Mim - Snake,11,7,0.6363636363636364,0.04005756776205327
+Eilonwy - Princess of Llyr,Snow Fort,11,7,0.6363636363636364,0.04005756776205327
+Gadget's Goggles,Sisu - Empowered Sibling,11,7,0.6363636363636364,0.04005756776205327
+Giant Cobra - Ghostly Serpent,John Smith - Skillful Explorer,11,7,0.6363636363636364,0.04005756776205327
+Hide Away,Oswald - The Lucky Rabbit,11,7,0.6363636363636364,0.04005756776205327
+Hide Away,Scrooge McDuck - Resourceful Miser,11,7,0.6363636363636364,0.04005756776205327
+How Far I'll Go,Vision of the Future,11,7,0.6363636363636364,0.04005756776205327
+Liquidator - Iced Over,Might Solve a Mystery,11,7,0.6363636363636364,0.04005756776205327
+Maurice's Workshop,Ratigan's Marvelous Trap,11,7,0.6363636363636364,0.04005756776205327
+Mulan - Resourceful Recruit,Snow Fort,11,7,0.6363636363636364,0.04005756776205327
+Piglet - Pooh Pirate Captain,Snow Fort,11,7,0.6363636363636364,0.04005756776205327
+Tamatoa - Happy as a Clam,Vitalisphere,11,7,0.6363636363636364,0.04005756776205327
+Webby Vanderquack - Junior Prospector,Webby Vanderquack - Mystery Enthusiast,11,7,0.6363636363636364,0.04005756776205327
+Brawl,Sapphire Coil,140,89,0.6357142857142857,0.03940821711270259
+Brawl,Unconventional Tool,82,52,0.6341463414634146,0.03784027286183156
+Brawl,Inkrunner,130,82,0.6307692307692307,0.034463162167647665
+Inkrunner,Liquidator - Iced Over,73,46,0.6301369863013698,0.033830917699786744
+Brawl,Maurice's Workshop,139,87,0.6258992805755396,0.02959321197395648
+Brom Bones - Burly Bully,Gold Coin,16,10,0.625,0.028693931398416916
+Daisy Duck - Donald's Date,Snow Fort,16,10,0.625,0.028693931398416916
+Dig a Little Deeper,Maui - Half-Shark,16,10,0.625,0.028693931398416916
+Dig a Little Deeper,"Next Stop, Olympus",16,10,0.625,0.028693931398416916
+Doc - Bold Knight,Mr. Smee - Bumbling Mate,16,10,0.625,0.028693931398416916
+Amethyst Chromicon,Merlin - Goat,8,5,0.625,0.028693931398416916
+Ariel - Spectacular Singer,Mowgli - Man Cub,8,5,0.625,0.028693931398416916
+Basil's Magnifying Glass,Gadget's Goggles,8,5,0.625,0.028693931398416916
+Christopher Robin - Joining the Fun,Giant Cobra - Ghostly Serpent,8,5,0.625,0.028693931398416916
+Develop Your Brain,Pawpsicle,8,5,0.625,0.028693931398416916
+Diablo - Devoted Herald,We Don't Talk About Bruno,8,5,0.625,0.028693931398416916
+Diablo - Maleficent's Spy,Prince John - Greediest of All,8,5,0.625,0.028693931398416916
+Diablo - Maleficent's Spy,Sudden Chill,8,5,0.625,0.028693931398416916
+Diablo - Obedient Raven,Gathering Knowledge and Wisdom,8,5,0.625,0.028693931398416916
+Gramma Tala - Keeper of Ancient Stories,How Far I'll Go,8,5,0.625,0.028693931398416916
+Hide Away,Vitalisphere,8,5,0.625,0.028693931398416916
+How Far I'll Go,Pawpsicle,8,5,0.625,0.028693931398416916
+Inkrunner,Ratigan's Marvelous Trap,8,5,0.625,0.028693931398416916
+John Smith - Skillful Explorer,Merlin - Goat,8,5,0.625,0.028693931398416916
+Kit Cloudkicker - Tough Guy,Scrooge McDuck - Resourceful Miser,8,5,0.625,0.028693931398416916
+Scuttle - Birdbrained,Tipo - Growing Son,8,5,0.625,0.028693931398416916
+Tramp - Enterprising Dog,Webby Vanderquack - Junior Prospector,8,5,0.625,0.028693931398416916
+Brom Bones - Burly Bully,Scrooge McDuck - Resourceful Miser,21,13,0.6190476190476191,0.022741550446035985
+Belle - Apprentice Inventor,Brawl,110,68,0.6181818181818182,0.021875749580235082
+Brawl,Gold Coin,55,34,0.6181818181818182,0.021875749580235082
+Brawl,Oswald - The Lucky Rabbit,123,76,0.6178861788617886,0.021580110260205565
+Brawl,Pawpsicle,151,93,0.6158940397350994,0.01958797113351629
+Develop Your Brain,Sail the Azurite Sea,39,24,0.6153846153846154,0.019078546783032335
+Cogsworth - Grandfather Clock,Maui - Half-Shark,13,8,0.6153846153846154,0.019078546783032335
+Cogsworth - Grandfather Clock,"Next Stop, Olympus",13,8,0.6153846153846154,0.019078546783032335
+Daisy Duck - Donald's Date,Piglet - Pooh Pirate Captain,13,8,0.6153846153846154,0.019078546783032335
+Gadget's Goggles,Maurice's Workshop,13,8,0.6153846153846154,0.019078546783032335
+Gadget's Goggles,Sapphire Coil,13,8,0.6153846153846154,0.019078546783032335
+Hidden Inkcaster,Maurice's Workshop,13,8,0.6153846153846154,0.019078546783032335
+Hidden Inkcaster,Pawpsicle,13,8,0.6153846153846154,0.019078546783032335
+Snow Fort,Webby Vanderquack - Mystery Enthusiast,13,8,0.6153846153846154,0.019078546783032335
+Maui - Hero to All,Vitalisphere,46,28,0.6086956521739131,0.012389583572329999
+Develop Your Brain,Scuttle - Birdbrained,20,12,0.6,0.0036939313984168942
+Dig a Little Deeper,Sail the Azurite Sea,15,9,0.6,0.0036939313984168942
+Giant Cobra - Ghostly Serpent,Mr. Smee - Bumbling Mate,15,9,0.6,0.0036939313984168942
+Scuttle - Birdbrained,What Else Can I Do?,15,9,0.6,0.0036939313984168942
+Akood et Emuti,Mowgli - Man Cub,10,6,0.6,0.0036939313984168942
+Be Prepared,Sail the Azurite Sea,10,6,0.6,0.0036939313984168942
+Be Prepared,Vision of the Future,10,6,0.6,0.0036939313984168942
+Daisy Duck - Donald's Date,Ursula - Deceiver,10,6,0.6,0.0036939313984168942
+Diablo - Obedient Raven,John Smith - Skillful Explorer,10,6,0.6,0.0036939313984168942
+Diablo - Obedient Raven,Merlin - Goat,10,6,0.6,0.0036939313984168942
+Doc - Bold Knight,Pete - Games Referee,10,6,0.6,0.0036939313984168942
+Fishbone Quill,Hide Away,10,6,0.6,0.0036939313984168942
+Gadget's Goggles,Sisu - Daring Visitor,10,6,0.6,0.0036939313984168942
+Giant Cobra - Ghostly Serpent,Merlin - Goat,10,6,0.6,0.0036939313984168942
+Gramma Tala - Keeper of Ancient Stories,Vision of the Future,10,6,0.6,0.0036939313984168942
+How Far I'll Go,Sail the Azurite Sea,10,6,0.6,0.0036939313984168942
+John Smith - Skillful Explorer,Mr. Smee - Bumbling Mate,10,6,0.6,0.0036939313984168942
+Lady - Decisive Dog,Nani - Stage Manager,10,6,0.6,0.0036939313984168942
+Lady - Miss Park Avenue,Mulan - Resourceful Recruit,10,6,0.6,0.0036939313984168942
+Maui - Half-Shark,Merryweather - Feisty Fairy,10,6,0.6,0.0036939313984168942
+Merlin - Goat,Mr. Smee - Bumbling Mate,10,6,0.6,0.0036939313984168942
+Merryweather - Feisty Fairy,"Next Stop, Olympus",10,6,0.6,0.0036939313984168942
+Merryweather - Feisty Fairy,Sail the Azurite Sea,10,6,0.6,0.0036939313984168942
+Mulan - Resourceful Recruit,Tramp - Enterprising Dog,10,6,0.6,0.0036939313984168942
+Oswald - The Lucky Rabbit,Ratigan's Marvelous Trap,10,6,0.6,0.0036939313984168942
+Ariel - Spectacular Singer,Strike a Good Match,5,3,0.6,0.0036939313984168942
+Brawl,Tamatoa - Happy as a Clam,5,3,0.6,0.0036939313984168942
+Brom Bones - Burly Bully,Might Solve a Mystery,5,3,0.6,0.0036939313984168942
+Christopher Robin - Joining the Fun,Gathering Knowledge and Wisdom,5,3,0.6,0.0036939313984168942
+Christopher Robin - Joining the Fun,Incrediboy - Buddy Pine,5,3,0.6,0.0036939313984168942
+Christopher Robin - Joining the Fun,Pete - Games Referee,5,3,0.6,0.0036939313984168942
+Cinderella - Ballroom Sensation,Diablo - Devoted Herald,5,3,0.6,0.0036939313984168942
+Develop Your Brain,Kida - Crystal Scion,5,3,0.6,0.0036939313984168942
+Develop Your Brain,Maui - Hero to All,5,3,0.6,0.0036939313984168942
+Diablo - Devoted Herald,The Bare Necessities,5,3,0.6,0.0036939313984168942
+Diablo - Maleficent's Spy,The Bare Necessities,5,3,0.6,0.0036939313984168942
+Doc - Bold Knight,Keep the Ancient Ways,5,3,0.6,0.0036939313984168942
+Eilonwy - Princess of Llyr,Rapunzel - Gifted with Healing,5,3,0.6,0.0036939313984168942
+Fishbone Quill,The Sword Released,5,3,0.6,0.0036939313984168942
+Galactic Communicator,Kit Cloudkicker - Tough Guy,5,3,0.6,0.0036939313984168942
+Giant Cobra - Ghostly Serpent,Keep the Ancient Ways,5,3,0.6,0.0036939313984168942
+Gold Coin,Tamatoa - Happy as a Clam,5,3,0.6,0.0036939313984168942
+Gramma Tala - Keeper of Ancient Stories,Maui - Hero to All,5,3,0.6,0.0036939313984168942
+How Far I'll Go,Sisu - Empowered Sibling,5,3,0.6,0.0036939313984168942
+How Far I'll Go,Tipo - Growing Son,5,3,0.6,0.0036939313984168942
+Jebidiah Farnsworth - Cookie,"Next Stop, Olympus",5,3,0.6,0.0036939313984168942
+Keep the Ancient Ways,Madam Mim - Snake,5,3,0.6,0.0036939313984168942
+Kida - Creative Thinker,Maui - Half-Shark,5,3,0.6,0.0036939313984168942
+Kida - Crystal Scion,Sail the Azurite Sea,5,3,0.6,0.0036939313984168942
+Lady - Miss Park Avenue,Rapunzel - Gifted with Healing,5,3,0.6,0.0036939313984168942
+Let the Storm Rage On,Rapunzel - Gifted with Healing,5,3,0.6,0.0036939313984168942
+Let the Storm Rage On,Ursula - Vanessa,5,3,0.6,0.0036939313984168942
+Madam Mim - Snake,Will o' the Wisp - Forest Spirit,5,3,0.6,0.0036939313984168942
+Maui - Hero to All,Sail the Azurite Sea,5,3,0.6,0.0036939313984168942
+Maui - Hero to All,Vision of the Future,5,3,0.6,0.0036939313984168942
+Mulan - Resourceful Recruit,Rapunzel - Gifted with Healing,5,3,0.6,0.0036939313984168942
+Pawpsicle,Tipo - Growing Son,5,3,0.6,0.0036939313984168942
+Prince John - Greediest of All,Strike a Good Match,5,3,0.6,0.0036939313984168942
+Sapphire Coil,The Sword Released,5,3,0.6,0.0036939313984168942
+Tamatoa - Happy as a Clam,Unconventional Tool,5,3,0.6,0.0036939313984168942
+The Muses - Proclaimers of Heroes,We Don't Talk About Bruno,5,3,0.6,0.0036939313984168942
+Gadget's Goggles,Pawpsicle,17,10,0.5882352941176471,-0.008070774483936005
+Brom Bones - Burly Bully,Sapphire Coil,24,14,0.5833333333333334,-0.012972735268249713
+Amethyst Chromicon,Giant Cobra - Ghostly Serpent,12,7,0.5833333333333334,-0.012972735268249713
+Amethyst Chromicon,Mr. Smee - Bumbling Mate,12,7,0.5833333333333334,-0.012972735268249713
+Cogsworth - Grandfather Clock,What Else Can I Do?,12,7,0.5833333333333334,-0.012972735268249713
+Daisy Duck - Donald's Date,Webby Vanderquack - Mystery Enthusiast,12,7,0.5833333333333334,-0.012972735268249713
+Fishbone Quill,Gadget's Goggles,12,7,0.5833333333333334,-0.012972735268249713
+Hidden Inkcaster,Oswald - The Lucky Rabbit,12,7,0.5833333333333334,-0.012972735268249713
+Hide Away,Sapphire Coil,12,7,0.5833333333333334,-0.012972735268249713
+Lady - Decisive Dog,Mulan - Resourceful Recruit,12,7,0.5833333333333334,-0.012972735268249713
+Lady - Decisive Dog,Piglet - Pooh Pirate Captain,12,7,0.5833333333333334,-0.012972735268249713
+Lady - Decisive Dog,Ursula - Deceiver,12,7,0.5833333333333334,-0.012972735268249713
+Develop Your Brain,Dig a Little Deeper,14,8,0.5714285714285714,-0.024877497173011687
+Diablo - Obedient Raven,Giant Cobra - Ghostly Serpent,14,8,0.5714285714285714,-0.024877497173011687
+Doc - Bold Knight,Giant Cobra - Ghostly Serpent,14,8,0.5714285714285714,-0.024877497173011687
+Akood et Emuti,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.024877497173011687
+Akood et Emuti,We Don't Talk About Bruno,7,4,0.5714285714285714,-0.024877497173011687
+Ariel - Spectacular Singer,Prince John - Greediest of All,7,4,0.5714285714285714,-0.024877497173011687
+Be Prepared,Gramma Tala - Keeper of Ancient Stories,7,4,0.5714285714285714,-0.024877497173011687
+Be Prepared,How Far I'll Go,7,4,0.5714285714285714,-0.024877497173011687
+Be Prepared,Pawpsicle,7,4,0.5714285714285714,-0.024877497173011687
+Belle - Apprentice Inventor,Kit Cloudkicker - Tough Guy,7,4,0.5714285714285714,-0.024877497173011687
+Belle - Apprentice Inventor,Under the Sea,7,4,0.5714285714285714,-0.024877497173011687
+Cinderella - Ballroom Sensation,Sudden Chill,7,4,0.5714285714285714,-0.024877497173011687
+Cinderella - Ballroom Sensation,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.024877497173011687
+Daisy Duck - Donald's Date,Webby Vanderquack - Junior Prospector,7,4,0.5714285714285714,-0.024877497173011687
+Develop Your Brain,Kida - Creative Thinker,7,4,0.5714285714285714,-0.024877497173011687
+Diablo - Maleficent's Spy,We Don't Talk About Bruno,7,4,0.5714285714285714,-0.024877497173011687
+Doc - Bold Knight,Friends on the Other Side,7,4,0.5714285714285714,-0.024877497173011687
+Doc - Bold Knight,Merlin - Goat,7,4,0.5714285714285714,-0.024877497173011687
+Eilonwy - Princess of Llyr,Piglet - Pooh Pirate Captain,7,4,0.5714285714285714,-0.024877497173011687
+Friends on the Other Side,Mr. Smee - Bumbling Mate,7,4,0.5714285714285714,-0.024877497173011687
+Gathering Knowledge and Wisdom,Incrediboy - Buddy Pine,7,4,0.5714285714285714,-0.024877497173011687
+Gathering Knowledge and Wisdom,John Smith - Skillful Explorer,7,4,0.5714285714285714,-0.024877497173011687
+Kida - Creative Thinker,"Next Stop, Olympus",7,4,0.5714285714285714,-0.024877497173011687
+Kida - Creative Thinker,Vision of the Future,7,4,0.5714285714285714,-0.024877497173011687
+Maurice's Workshop,The Sword Released,7,4,0.5714285714285714,-0.024877497173011687
+Merryweather - Feisty Fairy,Tipo - Growing Son,7,4,0.5714285714285714,-0.024877497173011687
+Mowgli - Man Cub,The Muses - Proclaimers of Heroes,7,4,0.5714285714285714,-0.024877497173011687
+Mulan - Resourceful Recruit,Webby Vanderquack - Junior Prospector,7,4,0.5714285714285714,-0.024877497173011687
+Nani - Stage Manager,Tramp - Enterprising Dog,7,4,0.5714285714285714,-0.024877497173011687
+Pawpsicle,The Sword Released,7,4,0.5714285714285714,-0.024877497173011687
+Rapunzel - Gifted with Healing,Snow Fort,7,4,0.5714285714285714,-0.024877497173011687
+Tramp - Enterprising Dog,Webby Vanderquack - Mystery Enthusiast,7,4,0.5714285714285714,-0.024877497173011687
+Cogsworth - Grandfather Clock,Develop Your Brain,16,9,0.5625,-0.033806068601583084
+Gadget's Goggles,Oswald - The Lucky Rabbit,18,10,0.5555555555555556,-0.0407505130460275
+Belle - Apprentice Inventor,Hidden Inkcaster,9,5,0.5555555555555556,-0.0407505130460275
+Brom Bones - Burly Bully,Liquidator - Iced Over,9,5,0.5555555555555556,-0.0407505130460275
+Develop Your Brain,Gramma Tala - Keeper of Ancient Stories,9,5,0.5555555555555556,-0.0407505130460275
+Eilonwy - Princess of Llyr,Lady - Decisive Dog,9,5,0.5555555555555556,-0.0407505130460275
+Fire the Cannons!,Gathering Knowledge and Wisdom,9,5,0.5555555555555556,-0.0407505130460275
+Fire the Cannons!,Incrediboy - Buddy Pine,9,5,0.5555555555555556,-0.0407505130460275
+Gadget's Goggles,Gold Coin,9,5,0.5555555555555556,-0.0407505130460275
+Gathering Knowledge and Wisdom,Giant Cobra - Ghostly Serpent,9,5,0.5555555555555556,-0.0407505130460275
+Giant Cobra - Ghostly Serpent,Incrediboy - Buddy Pine,9,5,0.5555555555555556,-0.0407505130460275
+Hide Away,Sisu - Daring Visitor,9,5,0.5555555555555556,-0.0407505130460275
+Incrediboy - Buddy Pine,Pete - Games Referee,9,5,0.5555555555555556,-0.0407505130460275
+Inkrunner,Kit Cloudkicker - Tough Guy,9,5,0.5555555555555556,-0.0407505130460275
+Maui - Hero to All,Tamatoa - Happy as a Clam,9,5,0.5555555555555556,-0.0407505130460275
+Merryweather - Feisty Fairy,Vision of the Future,9,5,0.5555555555555556,-0.0407505130460275
+Mowgli - Man Cub,Prince John - Greediest of All,9,5,0.5555555555555556,-0.0407505130460275
+Mowgli - Man Cub,Sudden Chill,9,5,0.5555555555555556,-0.0407505130460275
+Mowgli - Man Cub,We Don't Talk About Bruno,9,5,0.5555555555555556,-0.0407505130460275
+Pete - Games Referee,Will o' the Wisp - Forest Spirit,9,5,0.5555555555555556,-0.0407505130460275
+Snow Fort,Tramp - Enterprising Dog,9,5,0.5555555555555556,-0.0407505130460275
+Snow Fort,Webby Vanderquack - Junior Prospector,9,5,0.5555555555555556,-0.0407505130460275
+Be Prepared,Develop Your Brain,11,6,0.5454545454545454,-0.05085152314703767
+Cogsworth - Grandfather Clock,Scuttle - Birdbrained,11,6,0.5454545454545454,-0.05085152314703767
+Fire the Cannons!,Will o' the Wisp - Forest Spirit,11,6,0.5454545454545454,-0.05085152314703767
+Gathering Knowledge and Wisdom,Mr. Smee - Bumbling Mate,11,6,0.5454545454545454,-0.05085152314703767
+Hidden Inkcaster,Inkrunner,11,6,0.5454545454545454,-0.05085152314703767
+Hide Away,Inkrunner,11,6,0.5454545454545454,-0.05085152314703767
+Merryweather - Feisty Fairy,Scuttle - Birdbrained,11,6,0.5454545454545454,-0.05085152314703767
+Mr. Smee - Bumbling Mate,Pete - Games Referee,11,6,0.5454545454545454,-0.05085152314703767
+Pawpsicle,Vision of the Future,11,6,0.5454545454545454,-0.05085152314703767
+Prince John - Greediest of All,Sudden Chill,11,6,0.5454545454545454,-0.05085152314703767
+Brom Bones - Burly Bully,Maurice's Workshop,26,14,0.5384615384615384,-0.05784453014004465
+Akood et Emuti,Ariel - Spectacular Singer,13,7,0.5384615384615384,-0.05784453014004465
+Dig a Little Deeper,Scuttle - Birdbrained,13,7,0.5384615384615384,-0.05784453014004465
+Hide Away,Maurice's Workshop,13,7,0.5384615384615384,-0.05784453014004465
+Hide Away,Pawpsicle,13,7,0.5384615384615384,-0.05784453014004465
+Lady - Decisive Dog,Webby Vanderquack - Mystery Enthusiast,13,7,0.5384615384615384,-0.05784453014004465
+Dig a Little Deeper,Vision of the Future,15,8,0.5333333333333333,-0.06297273526824976
+Lady - Decisive Dog,Snow Fort,15,8,0.5333333333333333,-0.06297273526824976
+Develop Your Brain,Tipo - Growing Son,17,9,0.5294117647058824,-0.06689430389570072
+Brom Bones - Burly Bully,Vitalisphere,19,10,0.5263157894736842,-0.0699902791278989
+Brom Bones - Burly Bully,Sisu - Daring Visitor,21,11,0.5238095238095238,-0.07249654479205925
+Brom Bones - Burly Bully,Pawpsicle,25,13,0.52,-0.07630606860158307
+Gadget's Goggles,Inkrunner,14,7,0.5,-0.09630606860158308
+Daisy Duck - Donald's Date,Lady - Miss Park Avenue,12,6,0.5,-0.09630606860158308
+Dig a Little Deeper,What Else Can I Do?,12,6,0.5,-0.09630606860158308
+Lady - Decisive Dog,Lady - Miss Park Avenue,12,6,0.5,-0.09630606860158308
+Develop Your Brain,How Far I'll Go,10,5,0.5,-0.09630606860158308
+Doc - Bold Knight,Will o' the Wisp - Forest Spirit,10,5,0.5,-0.09630606860158308
+Gadget's Goggles,Lucky Dime,10,5,0.5,-0.09630606860158308
+Hidden Inkcaster,Kit Cloudkicker - Tough Guy,10,5,0.5,-0.09630606860158308
+Incrediboy - Buddy Pine,Mr. Smee - Bumbling Mate,10,5,0.5,-0.09630606860158308
+Kida - Creative Thinker,Sail the Azurite Sea,10,5,0.5,-0.09630606860158308
+Kit Cloudkicker - Tough Guy,Maurice's Workshop,10,5,0.5,-0.09630606860158308
+Kit Cloudkicker - Tough Guy,Pawpsicle,10,5,0.5,-0.09630606860158308
+Amethyst Chromicon,Will o' the Wisp - Forest Spirit,8,4,0.5,-0.09630606860158308
+Christopher Robin - Joining the Fun,Mr. Smee - Bumbling Mate,8,4,0.5,-0.09630606860158308
+Cogsworth - Grandfather Clock,Dig a Little Deeper,8,4,0.5,-0.09630606860158308
+Cogsworth - Grandfather Clock,Tipo - Growing Son,8,4,0.5,-0.09630606860158308
+Dig a Little Deeper,Merryweather - Feisty Fairy,8,4,0.5,-0.09630606860158308
+Doc - Bold Knight,Incrediboy - Buddy Pine,8,4,0.5,-0.09630606860158308
+Gadget's Goggles,Vitalisphere,8,4,0.5,-0.09630606860158308
+Gathering Knowledge and Wisdom,Pete - Games Referee,8,4,0.5,-0.09630606860158308
+Gold Coin,Hide Away,8,4,0.5,-0.09630606860158308
+Hide Away,Sisu - Empowered Sibling,8,4,0.5,-0.09630606860158308
+Keep the Ancient Ways,Pete - Games Referee,8,4,0.5,-0.09630606860158308
+Kit Cloudkicker - Tough Guy,Ratigan's Marvelous Trap,8,4,0.5,-0.09630606860158308
+Lady - Decisive Dog,Webby Vanderquack - Junior Prospector,8,4,0.5,-0.09630606860158308
+Prince John - Greediest of All,We Don't Talk About Bruno,8,4,0.5,-0.09630606860158308
+Sudden Chill,We Don't Talk About Bruno,8,4,0.5,-0.09630606860158308
+Amethyst Chromicon,Incrediboy - Buddy Pine,6,3,0.5,-0.09630606860158308
+Bobby Zimuruski - Spray Cheese Kid,Grandmother Willow - Ancient Advisor,6,3,0.5,-0.09630606860158308
+Bobby Zimuruski - Spray Cheese Kid,Tramp - Street-Smart Dog,6,3,0.5,-0.09630606860158308
+Brawl,Gadget's Goggles,6,3,0.5,-0.09630606860158308
+Christopher Robin - Joining the Fun,Friends on the Other Side,6,3,0.5,-0.09630606860158308
+Cinderella - Ballroom Sensation,Prince John - Greediest of All,6,3,0.5,-0.09630606860158308
+Gramma Tala - Keeper of Ancient Stories,Tipo - Growing Son,6,3,0.5,-0.09630606860158308
+Grandmother Willow - Ancient Advisor,Lady - Decisive Dog,6,3,0.5,-0.09630606860158308
+Grandmother Willow - Ancient Advisor,Lady - Miss Park Avenue,6,3,0.5,-0.09630606860158308
+Hide Away,Unconventional Tool,6,3,0.5,-0.09630606860158308
+Jebidiah Farnsworth - Cookie,Maui - Half-Shark,6,3,0.5,-0.09630606860158308
+Lady - Decisive Dog,Tramp - Street-Smart Dog,6,3,0.5,-0.09630606860158308
+Lady - Miss Park Avenue,Tramp - Street-Smart Dog,6,3,0.5,-0.09630606860158308
+Mowgli - Man Cub,Strike a Good Match,6,3,0.5,-0.09630606860158308
+Rapunzel - Gifted with Healing,Ursula - Vanessa,6,3,0.5,-0.09630606860158308
+Rapunzel - Gifted with Healing,Webby Vanderquack - Mystery Enthusiast,6,3,0.5,-0.09630606860158308
+Sisu - Daring Visitor,The Sword Released,6,3,0.5,-0.09630606860158308
+Strike a Good Match,The Muses - Proclaimers of Heroes,6,3,0.5,-0.09630606860158308
+Brawl,Liquidator - Iced Over,27,13,0.48148148148148145,-0.11482458712010163
+Brom Bones - Burly Bully,Inkrunner,23,11,0.4782608695652174,-0.11804519903636568
+Belle - Apprentice Inventor,Brom Bones - Burly Bully,21,10,0.47619047619047616,-0.12011559241110692
+Daisy Duck - Donald's Date,Lady - Decisive Dog,19,9,0.47368421052631576,-0.12262185807526732
+Ariel - Spectacular Singer,Cinderella - Ballroom Sensation,11,5,0.45454545454545453,-0.14176061405612855
+Basil's Magnifying Glass,Brom Bones - Burly Bully,11,5,0.45454545454545453,-0.14176061405612855
+Belle - Apprentice Inventor,Hide Away,9,4,0.4444444444444444,-0.15186162415713866
+Kit Cloudkicker - Tough Guy,Oswald - The Lucky Rabbit,9,4,0.4444444444444444,-0.15186162415713866
+Lady - Miss Park Avenue,Tramp - Enterprising Dog,9,4,0.4444444444444444,-0.15186162415713866
+Gadget's Goggles,Scrooge McDuck - Resourceful Miser,14,6,0.42857142857142855,-0.16773464003015454
+Amethyst Chromicon,Gathering Knowledge and Wisdom,7,3,0.42857142857142855,-0.16773464003015454
+Bobby Zimuruski - Spray Cheese Kid,Daisy Duck - Donald's Date,7,3,0.42857142857142855,-0.16773464003015454
+Cinderella - Ballroom Sensation,Mowgli - Man Cub,7,3,0.42857142857142855,-0.16773464003015454
+Daisy Duck - Donald's Date,Rapunzel - Gifted with Healing,7,3,0.42857142857142855,-0.16773464003015454
+Gathering Knowledge and Wisdom,Will o' the Wisp - Forest Spirit,7,3,0.42857142857142855,-0.16773464003015454
+Incrediboy - Buddy Pine,Will o' the Wisp - Forest Spirit,7,3,0.42857142857142855,-0.16773464003015454
+Lady - Decisive Dog,Rapunzel - Gifted with Healing,7,3,0.42857142857142855,-0.16773464003015454
+Lady - Decisive Dog,Tramp - Enterprising Dog,12,5,0.4166666666666667,-0.1796394019349164
+Mr. Smee - Bumbling Mate,Will o' the Wisp - Forest Spirit,12,5,0.4166666666666667,-0.1796394019349164
+Daisy Duck - Donald's Date,Tramp - Enterprising Dog,10,4,0.4,-0.19630606860158306
+Akood et Emuti,Prince Naveen - Ukulele Player,5,2,0.4,-0.19630606860158306
+Akood et Emuti,Rapunzel - Gifted with Healing,5,2,0.4,-0.19630606860158306
+Akood et Emuti,Ursula - Vanessa,5,2,0.4,-0.19630606860158306
+Ariel - Spectacular Singer,Rapunzel - Gifted with Healing,5,2,0.4,-0.19630606860158306
+Ariel - Spectacular Singer,Ursula - Vanessa,5,2,0.4,-0.19630606860158306
+Cinderella - Ballroom Sensation,We Don't Talk About Bruno,5,2,0.4,-0.19630606860158306
+Dig a Little Deeper,Kida - Creative Thinker,5,2,0.4,-0.19630606860158306
+Friends on the Other Side,Will o' the Wisp - Forest Spirit,5,2,0.4,-0.19630606860158306
+Gadget's Goggles,Maui - Hero to All,5,2,0.4,-0.19630606860158306
+Gathering Knowledge and Wisdom,Merlin - Goat,5,2,0.4,-0.19630606860158306
+Hide Away,Liquidator - Iced Over,5,2,0.4,-0.19630606860158306
+John Smith - Skillful Explorer,Will o' the Wisp - Forest Spirit,5,2,0.4,-0.19630606860158306
+Olaf - Snowman of Action,Sail the Azurite Sea,5,2,0.4,-0.19630606860158306
+Pete - Games Referee,Strength of a Raging Fire,5,2,0.4,-0.19630606860158306
+Prince Naveen - Ukulele Player,Rapunzel - Gifted with Healing,5,2,0.4,-0.19630606860158306
+Prince Naveen - Ukulele Player,Ursula - Vanessa,5,2,0.4,-0.19630606860158306
+Akood et Emuti,Strike a Good Match,8,3,0.375,-0.22130606860158308
+Christopher Robin - Joining the Fun,Doc - Bold Knight,8,3,0.375,-0.22130606860158308
+Cogsworth - Grandfather Clock,Merryweather - Feisty Fairy,8,3,0.375,-0.22130606860158308
+Giant Cobra - Ghostly Serpent,Will o' the Wisp - Forest Spirit,8,3,0.375,-0.22130606860158308
+Merryweather - Feisty Fairy,What Else Can I Do?,8,3,0.375,-0.22130606860158308
+Develop Your Brain,Merryweather - Feisty Fairy,11,4,0.36363636363636365,-0.23266970496521944
+Akood et Emuti,Cinderella - Ballroom Sensation,12,4,0.3333333333333333,-0.26297273526824977
+Belle - Apprentice Inventor,Gadget's Goggles,12,4,0.3333333333333333,-0.26297273526824977
+Bobby Zimuruski - Spray Cheese Kid,Lady - Decisive Dog,6,2,0.3333333333333333,-0.26297273526824977
+Christopher Robin - Joining the Fun,Will o' the Wisp - Forest Spirit,6,2,0.3333333333333333,-0.26297273526824977
+Rapunzel - Gifted with Healing,Tramp - Enterprising Dog,6,2,0.3333333333333333,-0.26297273526824977
+Bobby Zimuruski - Spray Cheese Kid,Lady - Miss Park Avenue,7,2,0.2857142857142857,-0.3105917828872974
+Cinderella - Ballroom Sensation,Strike a Good Match,7,2,0.2857142857142857,-0.3105917828872974
+Brawl,Brom Bones - Burly Bully,8,2,0.25,-0.3463060686015831
+Keep the Ancient Ways,Strength of a Raging Fire,5,1,0.2,-0.3963060686015831
+Merlin - Goat,Will o' the Wisp - Forest Spirit,5,1,0.2,-0.3963060686015831
+Maurice's Workshop,The Queen - Diviner,5,0,0.0,-0.5963060686015831
+Sisu - Daring Visitor,The Queen - Diviner,5,0,0.0,-0.5963060686015831
